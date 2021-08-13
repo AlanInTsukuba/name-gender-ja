@@ -1,5 +1,12 @@
 # Gender Classification of Personal Names for Japanese Text
 
-## Abstract
+## Introduction
 
-A database of 3969 unique female and 10680 unique male personal names from Japanese text was created from actual persons searched and identified on the internet, with 24 name-gender pairs taken from O'Neill (1972). Of these, 257 unique personal names are shared by the female and male lists. This repository describes the construction of this database, provides a table of these unique names, and demonstrates estimating genders of personal names using last character estimation.
+According to the Japan National Census, more than 40% of repondents who give their occupation as designer are women. This has been true since the 1990 census. On the other hand, the share of creators listed on Japanese registered designs who are women is unknown, but is certainly much lower, perhaps 10%. This project aims to quantify this share by developing name-gender data resources for estimating the genders of creators.
+
+Two types of data resources are in development:
+
+1. Individually searched given names selected from persons listed in Japanese registered designs
+
+2. Given name collections obtained from internet sources
+

@@ -16,7 +16,7 @@ So far, two kinds of internet sources have been indentified that can be used for
 
 #### 3. Gender estimator based on ending characters
 
-The given names collections are used to generate classification rules using the ending characters similar to those used by <a href="#LariviereEtal2013">Larivière et al (2013)</a> but with CJK characters.
+The given names collections are used to generate classification rules using the ending characters similar to those used by <a href="#LariviereEtal2013">Larivière et al (2013)</a> but with Japanese Kanji characters.
 
 ## Ethics and personal information
 
@@ -26,9 +26,13 @@ Research into gender disparities requires the ability to code the genders of per
 
 <a href="#WhittingtonSmith-Doerr2008">Whittington and Smith-Doerr (2008)</a> code subjects using their given names based on common name lists and background searching. Beyond noting that the percentage of women in their sample is proprotionate to other comparable samples, they provide no detail or validation of their coding.
 
-<a href="#LariviereEtal2013">Larivière et al (2013)</a> classify Romanized Korean and Japanese given names based on US Census lists (https://www.census.gov/genealogy/www/data/1990surnames/names_files.html, which is no longer available) Wikipedia lists and categories: http://en.wikipedia.org/wiki/List_of_Korean_given_names and http://en.wikipedia.org/wiki/Category:Korean_given_names for Korean, and http://en.wikipedia.org/wiki/Category:Japanese_given_names and http://en.wikipedia.org/wiki/Japanese_name for Japanese. Korean and Japanese names not matched in universal lists are classified using series of rules, notably name endings. Genders for Chinese names are manually coded by native speakers from China who used personal knowledge of Chinese names supplemented by web searches on Google Images and Facebook.
+<a href="#LariviereEtal2013">Larivière et al (2013)</a> classify Romanized Korean and Japanese given names based on US Census lists (https://www.census.gov/genealogy/www/data/1990surnames/names_files.html, currently https://www.census.gov/topics/population/genealogy/data/1990_census/1990_census_namefiles.html) Wikipedia lists and categories: http://en.wikipedia.org/wiki/List_of_Korean_given_names and http://en.wikipedia.org/wiki/Category:Korean_given_names for Korean, and http://en.wikipedia.org/wiki/Category:Japanese_given_names and http://en.wikipedia.org/wiki/Japanese_name for Japanese. Korean and Japanese names not matched in universal lists are classified using series of rules, notably name endings. Genders for Chinese names are manually coded by native speakers from China who used personal knowledge of Chinese names supplemented by web searches on Google Images and Facebook. <a href="#LariviereEtal2013">Larivière et al (2013)</a> apply this classification methodology to gender disparities in science; <a href="#SugimotoEtal2015">Larivière et al (2013)</a> apply it to gender disparities in patenting.
+
+<a href="#DelixusNWBC2012">Delixus, Inc. and National Women’s Business Council (2012)</a> use a popular names web site, http://www.20000-names.com/, to classify Japanese, Korean and Chinese names. They use popular names data books authored by Nancy Man for American names. These latter books were formerly available at https://www.smashwords.com/.
 
 ## References
+<a id="DelixusNWBC2012">Delixus, Inc. and National Women’s Business Council (2012)</a> Intellectual Property and Women Entrepreneurs. <https://cdn.www.nwbc.gov/wp-content/uploads/2018/02/27192725/Qualitative-Analysis-Intellectual-Property-Women-Entrepreneurs-Part-1.pdf> (accessed 16 August 2021)
+
 <a id="LariviereEtal2013">Larivière, Vincent, Chaoqun Ni, Blaise Cronin, and Cassidy R. Sugimoto (2013).</a> "Global Gender Disparities in Science." Nature (London), 504(7479), pp. 211-213, doi:10.1038/504211a. Supplementary information.
 
 <a id="SugimotoEtal2015">Sugimoto, Cassidy R., Chaoqun Ni, Jevin D. West, Vincent Larivière (2015)</a> The Academic Advantage: Gender Disparities in Patenting. PLoS ONE 10(5): e0128000. doi:10.1371/journal.pone.0128000

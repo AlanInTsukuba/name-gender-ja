@@ -6,15 +6,15 @@ According to the Japan National Census, more than 40% of repondents who give the
 
 Three types of data resources are in development:
 
-####1. Individually searched given names selected from persons listed in Japanese registered designs
+#### 1. Individually searched given names selected from persons listed in Japanese registered designs
 
 Registered designs published by the Japan Patent and Trademark Office list persons in three roles: 1) examiners, 2) agents, and 3) creators. One approach to identifying genders of given names is to search for actual persons with those names and record names and either disclosed or perceived binary genders. While this can provide maximal coverage of names listed in registered designs, it is not clear whether or not this data can be subjected to statistical tests and can be applied to other name collections.
 
-####2. Collections of given names obtained from internet sources
+#### 2. Collections of given names obtained from internet sources
 
 So far, two kinds of internet sources have been indentified that can be used for statistical estimation of gender based on given names. The first kind is gender-specific Wikipedia categories. The second kind is gender-specific sports rosters, particularly marathon rosters. Being more general population samples, they should lend themselves to statistical testing and application to other name collections
 
-####3. Gender estimator based on last characters
+#### 3. Gender estimator based on last characters
 
 The given names collections are used to generate classification rules using the ending characters similar to those used by <a href="#LariviereEtal2013">Larivière et al (2013)</a> but with CJK characters.
 

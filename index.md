@@ -12,7 +12,7 @@ Registered designs published by the Japan Patent and Trademark Office (JPO) list
 
 #### 2. Collections of given names obtained from internet sources
 
-So far, two kinds of internet sources have been indentified that can be used for statistical estimation of gender based on given names. The first kind is gender-specific Wikipedia categories. The second kind is gender-specific sports rosters, particularly marathon rosters. Being more general population samples, they should lend themselves to statistical testing and application to other name collections
+So far, two kinds of internet sources have been indentified that can be used for statistical estimation of gender based on given names. Being more general population samples, they should lend themselves to statistical testing and application to other name collections. The first kind is gender-specific Wikipedia categories. The second kind is gender-specific sports rosters, particularly marathon rosters.
 
 #### 3. Gender estimator based on ending characters
 
@@ -29,6 +29,10 @@ Research into gender disparities requires the ability to code the genders of per
 <a href="#LariviereEtal2013">Larivière et al (2013)</a> classify Romanized Korean and Japanese given names based on US Census lists (https://www.census.gov/genealogy/www/data/1990surnames/names_files.html, currently https://www.census.gov/topics/population/genealogy/data/1990_census/1990_census_namefiles.html) Wikipedia lists and categories: http://en.wikipedia.org/wiki/List_of_Korean_given_names and http://en.wikipedia.org/wiki/Category:Korean_given_names for Korean, and http://en.wikipedia.org/wiki/Category:Japanese_given_names and http://en.wikipedia.org/wiki/Japanese_name for Japanese. Korean and Japanese names not matched in universal lists are classified using series of rules, notably name endings. Genders for Chinese names are manually coded by native speakers from China who used personal knowledge of Chinese names supplemented by web searches on Google Images and Facebook. <a href="#LariviereEtal2013">Larivière et al (2013)</a> apply this classification methodology to gender disparities in science; <a href="#SugimotoEtal2015">Larivière et al (2013)</a> apply it to gender disparities in patenting.
 
 <a href="#DelixusNWBC2012">Delixus, Inc. and National Women’s Business Council (2012)</a> use a popular names web site, http://www.20000-names.com/, to classify Japanese, Korean and Chinese names. They use popular names data books authored by Nancy Man for American names. These latter books were formerly available at https://www.smashwords.com/.
+
+<a href="#MullerEtAl2019">Müller, Jain, and Te (2019)</a> use a dataset provided by a Swiss automobile insurance company that contains 1.88 million women's and 2.18 million men's names from 172 nationalities. These names contain 99,000 (5.3%) uniquely female and 111,000 (5.1%) uniquely male given names. (In this research, gender-specific Japanese marathon rosters contain about 40% unique names for both women and men.) They define unisex as names found for both genders with the probably of each being less than 95%.
+
+
 
 ## References
 <a id="DelixusNWBC2012">Delixus, Inc. and National Women’s Business Council (2012)</a> Intellectual Property and Women Entrepreneurs. <https://cdn.www.nwbc.gov/wp-content/uploads/2018/02/27192725/Qualitative-Analysis-Intellectual-Property-Women-Entrepreneurs-Part-1.pdf> (accessed 16 August 2021)

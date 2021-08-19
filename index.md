@@ -22,7 +22,7 @@ The given names collections are used to generate classification rules using the 
 
 ## Background
 
-Research into gender disparities requires the ability to code the genders of persons in sample sets. Several studies have used gender specificity of given names to estimate these persons.
+Research into gender disparities requires the ability to code the genders of persons in sample sets. This section reviews studies that code or classify gender based on given names. These studies are listed here chronologically by date of first publication.
 
 ### Name-matching using European alphabets
 
@@ -41,9 +41,16 @@ Research into gender disparities requires the ability to code the genders of per
 ## References
 <a id="DelixusNWBC2012">Delixus, Inc. and National Women’s Business Council (2012)</a> Intellectual Property and Women Entrepreneurs. <https://cdn.www.nwbc.gov/wp-content/uploads/2018/02/27192725/Qualitative-Analysis-Intellectual-Property-Women-Entrepreneurs-Part-1.pdf> (accessed 16 August 2021)
 
+<a id="HuntEtal2012">Hunt, Jennifer, Jean-Philippe Garant, Hannah Herman, David J. Munroe (2012</a> Why
+don’t women patent. Cambridge (MA): National Bureau of Economic Research. 2012. Working Paper 17888 [accessed 19 August 2021] https://www.nber.org/system/files/working_papers/w17888/w17888.pdf
+
 <a id="JensenEtAl2018">Jensen K, Kovács B, Sorenson O. (2018)</a> Gender differences in obtaining and maintaining patent rights. Nat Biotechnol. 2018 Apr 5;36(4):307-309. doi: 10.1038/nbt.4120. PMID: 29621210.
 
 <a id="LariviereEtal2013">Larivière, Vincent, Chaoqun Ni, Blaise Cronin, and Cassidy R. Sugimoto (2013).</a> "Global Gender Disparities in Science." Nature (London), 504(7479), pp. 211-213, doi:10.1038/504211a. Supplementary information.
+
+<a id="MartinezEtal2016">Martinez, Gema Lax, Julio Raffo, Kaori Saito (2016)</a> Identifying the gender of PCT inventors. Economic Research Working Paper No. 33. World Intelectual Property Organization. [accessed 19 August 2021] https://www.wipo.int/publications/en/details.jsp?id=4125&plang=EN
+
+<a id="MartinezEtal2021">Martinez, Gema Lax, Helena Saenz de Juano-i-Ribes, Deyun Yin, Bruno Le Feuvre, Intan Hamdan-Livramento, Kaori Saito, Julio Raffo (2021)</a> Expanding the World Gender-Name Dictionary: WGND 2.0. Economic Research Working Paper No. 64. World Intelectual Property Organization. [accessed 19 August 2021] https://www.wipo.int/edocs/pubdocs/en/wipo_pub_econstat_wp_64.pdf
 
 <a id="MullerEtAl2019">Müller, Daniel, Pratiksha Jain, and Yieh-Funk Te. (2019)</a> "Augmenting data quality through high-precision gender categorization." Journal of Data and Information Quality (JDIQ) 11(2):1-18. doi:10.1145/3297720
 
@@ -51,4 +58,4 @@ Research into gender disparities requires the ability to code the genders of per
 
 <a id="ButtonsToBiotech1999">United States Patent and Trademark Office (1999)</a>. Buttons to Biotech. 1996 Update Report with supplemental data through 1998. https://www.uspto.gov/web/offices/ac/ido/oeip/taf/wom_98.pdf (accessed 17 August 2021)
 
-<a id="WhittingtonSmithDoerr2008">Whittington, Kjersten Bunker, and Laurel Smith-Doerr (2008)</a> “WOMEN INVENTORS IN CONTEXT: Disparities in Patenting across Academia and Industry.” Gender and Society, 22(2):194–218. JSTOR, www.jstor.org/stable/27821633. Accessed 13 Aug. 2021.
+<a id="WhittingtonSmithDoerr2008">Whittington, Kjersten Bunker, and Laurel Smith-Doerr (2008)</a> “WOMEN INVENTORS IN CONTEXT: Disparities in Patenting across Academia and Industry.” Gender and Society, 22(2):194–218. JSTOR, www.jstor.org/stable/27821633. Accessed 13 August 2021.

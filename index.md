@@ -43,9 +43,6 @@ Research into gender disparities requires the ability to code the genders of per
 ## References
 <a id="DelixusNWBC2012">Delixus, Inc. and National Women’s Business Council (2012)</a> Intellectual Property and Women Entrepreneurs. <https://cdn.www.nwbc.gov/wp-content/uploads/2018/02/27192725/Qualitative-Analysis-Intellectual-Property-Women-Entrepreneurs-Part-1.pdf> (accessed 16 August 2021)
 
-<a id="HuntEtal2012">Hunt, Jennifer, Jean-Philippe Garant, Hannah Herman, David J. Munroe (2012</a> Why
-don’t women patent. Cambridge (MA): National Bureau of Economic Research. 2012. Working Paper 17888 [accessed 19 August 2021] https://www.nber.org/system/files/working_papers/w17888/w17888.pdf
-
 <a id="JensenEtAl2018">Jensen K, Kovács B, Sorenson O. (2018)</a> Gender differences in obtaining and maintaining patent rights. Nat Biotechnol. 2018 Apr 5;36(4):307-309. doi: 10.1038/nbt.4120. PMID: 29621210.
 
 <a id="LariviereEtal2013">Larivière, Vincent, Chaoqun Ni, Blaise Cronin, and Cassidy R. Sugimoto (2013).</a> "Global Gender Disparities in Science." Nature (London), 504(7479), pp. 211-213, doi:10.1038/504211a. Supplementary information.

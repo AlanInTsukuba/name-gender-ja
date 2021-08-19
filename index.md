@@ -28,13 +28,17 @@ Research into gender disparities requires the ability to code the genders of per
 
 ### Name-matching using European alphabets
 
-<a id="ButtonsToBiotech1999">United States Patent and Trademark Office (1999)</a>, in its Buttons to Biotech report, matches the given names of inventors against a file of female-only given names. Patents having an inventor with a matching given name were classified as woman-inventor patents. Patents having inventors with given names that are male-only or ambiguous are assumed to be male.
+<a href="#ButtonsToBiotech1999">United States Patent and Trademark Office (1999)</a>, in its Buttons to Biotech report, matches the given names of inventors against a file of female-only given names. Patents having an inventor with a matching given name were classified as woman-inventor patents. Patents having inventors with given names that are male-only or ambiguous are assumed to be male.
 
 <a href="#WhittingtonSmithDoerr2008">Whittington and Smith-Doerr (2008)</a> code subjects using their given names based on common name lists and background searching. Beyond noting that the percentage of women in their sample is proprotionate to other comparable samples, they provide no detail or validation of their coding.
 
 <a href="#DelixusNWBC2012">Delixus, Inc. and National Women’s Business Council (2012)</a> use a popular names web site, http://www.20000-names.com/, to classify Japanese, Korean and Chinese names. They use popular names data books authored by Nancy Man for American names. These latter books were formerly available at https://www.smashwords.com/.
 
 <a href="#LariviereEtal2013">Larivière et al (2013)</a> classify Romanized Korean and Japanese given names based on US Census lists (https://www.census.gov/genealogy/www/data/1990surnames/names_files.html, currently https://www.census.gov/topics/population/genealogy/data/1990_census/1990_census_namefiles.html) Wikipedia lists and categories: http://en.wikipedia.org/wiki/List_of_Korean_given_names and http://en.wikipedia.org/wiki/Category:Korean_given_names for Korean, and http://en.wikipedia.org/wiki/Category:Japanese_given_names and http://en.wikipedia.org/wiki/Japanese_name for Japanese. Korean and Japanese names not matched in universal lists are classified using series of rules, notably name endings. Genders for Chinese names are manually coded by native speakers from China who used personal knowledge of Chinese names supplemented by web searches on Google Images and Facebook. <a href="#LariviereEtal2013">Larivière et al (2013)</a> apply this classification methodology to gender disparities in science; <a href="#SugimotoEtal2015">Larivière et al (2013)</a> apply it to gender disparities in patenting.
+
+<a href="#MartinezEtal2016">Martinez, Gema Lax, Julio Raffo, Kaori Saito (2016)</a> review the methodological approaches to attributing gender and develop a gender-name dictionary with worldwide coverage. Relevent to the current research, in addition to making use of popular name lists on Wikipedia, they use an ad-hoc list of Chinese, Indian, Japanese and Korean names that was created by WIPO staff native speakers.
+
+<a href="#JensenKovacsSorenson2018">Jensen, Kyle, Balázs Kovács, and Olav Sorenson (2018)</a> determine the probable gender of inventors in US utility patent applications using given name gender distributions available from the US Social Security Administration and from two commercial databases, GenderAPI and genderize.io. They associated a given name with a single gender if the name was associated at least 95% of the time with that gender.
 
 <a href="#MullerEtAl2019">Müller, Jain, and Te (2019)</a> use a dataset provided by a Swiss automobile insurance company that contains 1.88 million women's and 2.18 million men's names from 172 nationalities. These names contain 99,000 (5.3%) uniquely female and 111,000 (5.1%) uniquely male given names. (In this research, gender-specific Japanese marathon rosters contain about 40% unique names for both women and men.) They define unisex as names found for both genders with the probably of each being less than 95%.
 
@@ -44,6 +48,8 @@ Research into gender disparities requires the ability to code the genders of per
 <a id="DelixusNWBC2012">Delixus, Inc. and National Women’s Business Council (2012)</a> Intellectual Property and Women Entrepreneurs. <https://cdn.www.nwbc.gov/wp-content/uploads/2018/02/27192725/Qualitative-Analysis-Intellectual-Property-Women-Entrepreneurs-Part-1.pdf> (accessed 16 August 2021)
 
 <a id="JensenEtAl2018">Jensen K, Kovács B, Sorenson O. (2018)</a> Gender differences in obtaining and maintaining patent rights. Nat Biotechnol. 2018 Apr 5;36(4):307-309. doi: 10.1038/nbt.4120. PMID: 29621210.
+
+<a id="JensenKovacsSorenson2018">Jensen, Kyle, Balázs Kovács, and Olav Sorenson (2018)</a> "Gender Differences in Obtaining and Maintaining Patent Rights." Nature Biotechnology, vol. 36, no. 4, 2018, pp. 307-309. [accessed 9 December 2020] https://www-proquest-com.ezproxy.tulips.tsukuba.ac.jp/docview/2021770129?pq-origsite=summon
 
 <a id="LariviereEtal2013">Larivière, Vincent, Chaoqun Ni, Blaise Cronin, and Cassidy R. Sugimoto (2013).</a> "Global Gender Disparities in Science." Nature (London), 504(7479), pp. 211-213, doi:10.1038/504211a. Supplementary information.
 

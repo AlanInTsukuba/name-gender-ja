@@ -8,17 +8,19 @@ Three types of data resources are in development:
 
 #### 1. Individually searched given names selected from persons listed in Japanese registered designs
 
-Registered designs published by the Japan Patent and Trademark Office (JPO) list persons in three roles: 1) examiners, 2) agents, and 3) creators. One approach to identifying genders of given names is to search for actual persons with those names and record names and either disclosed or perceived binary genders. While this can provide maximal coverage of names listed in registered designs, it is not clear whether or not this data can be subjected to statistical tests and can be applied to other name collections.
+Registered designs published by the Japan Patent and Trademark Office (JPO) list persons in three roles: 1) examiners, 2) agents, and 3) creators. One approach to identifying genders of given names is to search for actual persons with those names and record names and either disclosed or perceived binary genders. While this can provide maximal coverage of names listed in registered designs, it is not clear whether or not this data can be subjected to statistical tests and can be applied to other name collections. (Dataset not released)
 
 #### 2. Collections of given names obtained from internet sources
 
-So far, two kinds of internet sources have been indentified that can be used for statistical estimation of gender based on given names. Being more general population samples, they should lend themselves to statistical testing and application to other name collections. The first kind is gender-specific Wikipedia categories. The second kind is gender-specific sports rosters, particularly marathon rosters.
+So far, two kinds of internet sources have been indentified that can be used for statistical estimation of gender based on given names. Being more general population samples, they should lend themselves to statistical testing and application to other name collections. The first kind is gender-specific Wikipedia categories (dataset to be released). The second kind is gender-specific sports rosters, particularly marathon rosters. (Release of dataset under consideration.)
 
 #### 3. Gender estimator based on ending characters
 
-The given names collections are used to generate classification rules using the ending characters similar to those used by <a href="#LariviereEtal2013">Larivière et al (2013)</a> but with Japanese Kanji characters.
+The given names collections are used to generate classification rules using the ending characters similar to those used by <a href="#LariviereEtal2013">Larivière et al (2013)</a> but with Japanese Kanji characters. (Release of dataset under consideration.)
 
 ## Ethics and privacy
+
+For individually searched given names, binary genders were assigned based on declared or revealed genders in Facebook profiles, Wikipedia biographies, or gender-specific sports rosters; inferred genders from obituaries and the like; or perceived genders from labeled photographs. Facebook profiles for which genders were hidden were excluded even if gender could be perceived from the profile photograph as hiding gender can be treated as explicitly prohibiting use of the profile for gender identification.
 
 ## Background
 
@@ -55,6 +57,8 @@ don’t women patent. Cambridge (MA): National Bureau of Economic Research. 2012
 <a id="MullerEtAl2019">Müller, Daniel, Pratiksha Jain, and Yieh-Funk Te. (2019)</a> "Augmenting data quality through high-precision gender categorization." Journal of Data and Information Quality (JDIQ) 11(2):1-18. doi:10.1145/3297720
 
 <a id="SugimotoEtal2015">Sugimoto, Cassidy R., Chaoqun Ni, Jevin D. West, Vincent Larivière (2015)</a> The Academic Advantage: Gender Disparities in Patenting. PLoS ONE 10(5): e0128000. doi:10.1371/journal.pone.0128000
+
+<a id="TangEtal2011">Tang, Cong, Keith Ross, Nitesh Saxena, Ruichuan Xu (2011)</a> What's in a Name: A Study of Names, Gender Inference, and Gender Behavior in Facebook. In Jianliang Xu, Ge Yu, Shuigeng Zhou, and Rainer Unland (Eds.), Database Systems for Adanced Applications. DASFAA 2011. Lecture Notes in Computer Science, vol 6637. (pp. 344–356). Springer Berlin Heidelberg. [accessed 19 August 2021] https://doi-org.ezproxy.tulips.tsukuba.ac.jp/10.1007/978-3-642-20244-5_33
 
 <a id="ButtonsToBiotech1999">United States Patent and Trademark Office (1999)</a>. Buttons to Biotech. 1996 Update Report with supplemental data through 1998. https://www.uspto.gov/web/offices/ac/ido/oeip/taf/wom_98.pdf (accessed 17 August 2021)
 

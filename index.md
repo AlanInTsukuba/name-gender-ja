@@ -51,7 +51,8 @@ Gender attribution for Asian names using European alphabets suffers from limitia
 #### 1. Given names may have multiple readings
 
 <table>
-<caption>Readings of top 10 names of girls born in 2020</caption>
+<caption>Readings of top 10 names of girls born in 2020 
+(<a href="#MeijiyasudaReadingsGirls2020">Meiji Yasuda Life Insurance Company</a>)</caption>
 <thead><tr><th>Rank</th><th><i>Kanji</i></th><th>Readings (Number of girls)</th></tr></thead>
 <tbody>
 <tr><td>1</td><td>陽葵</td><td>Himari (24), Hinata (15), Hina (3), Hiyori (2)</td></tr>
@@ -60,17 +61,36 @@ Gender attribution for Asian names using European alphabets suffers from limitia
 <tr><td>4</td><td>結菜</td><td>Yuna (20), Yuina (17), Yuuna (3)</td></tr>
 <tr><td>5</td><td>結愛</td><td>Yua (22), Yui (4), Yume (3), Yuna (2), Yura (2)</td></tr>
 <tr><td>6</td><td>莉子</td><td>Riko (36)</td></tr>
-<tr><td>7</td><td>結月</td><td>Yudiki (27), Yuzuki (5), Yutsuki (2)</td></tr>
+<tr><td>7</td><td>結月</td><td>Yudziki (27), Yuzuki (5), Yutsuki (2)</td></tr>
 <tr><td>8</td><td>紬</td><td>Tsumugi (33)</td></tr>
 <tr><td>8</td><td>澪</td><td>Mio (25), Rei (4)</td></tr>
 <tr><td>10</td><td>結衣</td><td>Yui (32)</td></tr>
 </tbody>
 
 </table>
+<table>
+<caption>Readings of top 10 names of boys born in 2020 
+(<a href="#MeijiyasudaReadingsBoys2020">Meiji Yasuda Life Insurance Company</a>)</caption>
+<thead><tr><th>Rank</th><th><i>Kanji</i></th><th>Readings (Number of girls)</th></tr></thead>
+<tbody>
+<tr><td>1</td><td>蒼</td><td>Aoi (31), Sou (8), Ao (7), Sora (2)</td></tr>
+<tr><td>2</td><td>樹</td><td>Itsuki (43), Tatsuki (2)</td></tr>
+<tr><td>2</td><td>蓮</td><td>Ren (47)</td></tr>
+<tr><td>4</td><td>陽翔</td><td>Haruto (31), Hinato (3), Hinata (2)</td></tr>
+<tr><td>5</td><td>律</td><td>Ritsu (38)</td></tr>
+<tr><td>6</td><td>朝陽</td><td>Asahi (36)</td></tr>
+<tr><td>7</td><td>湊</td><td>Minato (33)</td></tr>
+<tr><td>8</td><td>新</td><td>Arata (31), Shin (2)</td></tr>
+<tr><td>9</td><td>大和</td><td>Yamato (32)</td></tr>
+<tr><td>10</td><td>大翔</td><td>Hiroto (12), Taiga (7), Haruto (5), Yamato (4), Taishi (2)</td></tr>
+</tbody>
+</table>
 
 ## Notes
 
-<a id="MeijiyasudaReadingsGirls2020" href="https://www.meijiyasuda.co.jp/enjoy/ranking/read_best10/girl.html">Meiji-Yasuda 名前ベスト10の読み方、女性</a>
+<a id="MeijiyasudaReadingsGirls2020" href="https://www.meijiyasuda.co.jp/enjoy/ranking/read_best10/girl.html">名前ベスト10の読み方、女の子 [Readings of the top 10 names, girls]</a>[accessed 21 August 2021]
+
+<a id="MeijiyasudaReadingsBoyss2020" href="https://www.meijiyasuda.co.jp/enjoy/ranking/read_best10/index.html">名前ベスト10の読み方、男の子[Readings of the top 10 names, boys]</a>[accessed 21 August 2021]
 
 ## References
 <a id="DelixusNWBC2012">Delixus, Inc. and National Women’s Business Council (2012)</a> Intellectual Property and Women Entrepreneurs. <https://cdn.www.nwbc.gov/wp-content/uploads/2018/02/27192725/Qualitative-Analysis-Intellectual-Property-Women-Entrepreneurs-Part-1.pdf> (accessed 16 August 2021)

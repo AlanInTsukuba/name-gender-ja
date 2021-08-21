@@ -71,7 +71,7 @@ Gender attribution for Asian names using European alphabets suffers from limitia
 <table>
 <caption>Readings of top 10 names of boys born in 2020 
 (<a href="#MeijiyasudaReadingsBoys2020">Meiji Yasuda Life Insurance Company</a>)</caption>
-<thead><tr><th>Rank</th><th><i>Kanji</i></th><th>Readings (Number of girls)</th></tr></thead>
+<thead><tr><th>Rank</th><th><i>Kanji</i></th><th>Readings (Number of boys)</th></tr></thead>
 <tbody>
 <tr><td>1</td><td>蒼</td><td>Aoi (31), Sou (8), Ao (7), Sora (2)</td></tr>
 <tr><td>2</td><td>樹</td><td>Itsuki (43), Tatsuki (2)</td></tr>

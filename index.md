@@ -50,7 +50,7 @@ Gender attribution for Asian names using European alphabets suffers from limitia
 
 #### 1. Given names may have multiple readings
 
-In contrast to South Korea, where <i>hanja</> in names each have only one associated phonetic Hangul (<a href="#YasuokaYasuoka2016">Yasuoka and Yasuoka (2016)</a>), <i>kanji</i> names in Japan can have multiple readings. Among the 10 most popular girls and boys names in Japan in 2020, shown in the tables below, <i>kanji</i> names have up to 5 readings, and some readings are applied to multiple <i>kanji</i> names, even unisex.
+In contrast to South Korea, where <i>hanja</i> in names each have only one associated phonetic Hangul (<a href="#YasuokaYasuoka2016">Yasuoka and Yasuoka (2016)</a>), <i>kanji</i> names in Japan can have multiple readings. Among the 10 most popular girls and boys names in Japan in 2020, shown in the tables below, <i>kanji</i> names have up to 5 readings, and some readings are applied to multiple <i>kanji</i> names, even unisex.
 
 <table>
 <caption><b>Readings of top 10 names of girls born in 2020 

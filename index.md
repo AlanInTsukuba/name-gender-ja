@@ -50,9 +50,11 @@ Gender attribution for Asian names using European alphabets suffers from limitia
 
 #### 1. Given names may have multiple readings
 
+In contrast to South Korea, where <i>hanja</> in names each have only one associated phonetic Hangul (<a href="#YasuokaYasuoka2016">Yasuoka and Yasuoka (2016)</a>), <i>kanji</i> names in Japan can have multiple readings. Among the 10 most popular girls and boys names in Japan in 2020, shown in the tables below, <i>kanji</i> names have up to 5 readings, and some readings are applied to multiple <i>kanji</i> names, even unisex.
+
 <table>
-<caption>Readings of top 10 names of girls born in 2020 
-(<a href="#MeijiyasudaReadingsGirls2020">Meiji Yasuda Life Insurance Company</a>)</caption>
+<caption><b>Readings of top 10 names of girls born in 2020 
+(<a href="#MeijiyasudaReadingsGirls2020">Meiji Yasuda Life Insurance Company</a>)</b></caption>
 <thead><tr><th>Rank</th><th><i>Kanji</i></th><th>Readings (Number of girls)</th></tr></thead>
 <tbody>
 <tr><td>1</td><td>陽葵</td><td>Himari (24), Hinata (15), Hina (3), Hiyori (2)</td></tr>
@@ -66,11 +68,10 @@ Gender attribution for Asian names using European alphabets suffers from limitia
 <tr><td>8</td><td>澪</td><td>Mio (25), Rei (4)</td></tr>
 <tr><td>10</td><td>結衣</td><td>Yui (32)</td></tr>
 </tbody>
-
 </table>
 <table>
-<caption>Readings of top 10 names of boys born in 2020 
-(<a href="#MeijiyasudaReadingsBoys2020">Meiji Yasuda Life Insurance Company</a>)</caption>
+<caption><b>Readings of top 10 names of boys born in 2020 
+(<a href="#MeijiyasudaReadingsBoys2020">Meiji Yasuda Life Insurance Company</a>)</b></caption>
 <thead><tr><th>Rank</th><th><i>Kanji</i></th><th>Readings (Number of boys)</th></tr></thead>
 <tbody>
 <tr><td>1</td><td>蒼</td><td>Aoi (31), Sou (8), Ao (7), Sora (2)</td></tr>
@@ -118,3 +119,5 @@ Gender attribution for Asian names using European alphabets suffers from limitia
 <a id="ProgressAndPotential2019">United States Patent and Trademark Office (2019)</a>. Progress and Potential: A profile of women inventors on U.S. patents. Office of the Chief Economist, IP Data Highlights, No. 2, February 2019, https://www.uspto.gov/sites/default/files/documents/OCE-DH-Progress-Potential-2020.pdf (accessed 17 August 2021)
 
 <a id="WhittingtonSmithDoerr2008">Whittington, Kjersten Bunker, and Laurel Smith-Doerr (2008)</a> “WOMEN INVENTORS IN CONTEXT: Disparities in Patenting across Academia and Industry.” Gender and Society, 22(2):194–218. JSTOR, www.jstor.org/stable/27821633. Accessed 13 August 2021.
+
+<a id="YasuokaYasuoka2016">Yasuoka, Koichi, and Motoko Yasuoka (2016)</a> Nichikan Nijukokuseki no Ko no Na ni tsukaeru ninmeiyo kanji (Japanese). Kosekijiho, no. 744, September 2016 [accessed 20 August 2021 ] http://hdl.handle.net/2433/219442

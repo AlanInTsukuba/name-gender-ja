@@ -42,6 +42,7 @@ Research into gender disparities requires the ability to code the genders of per
 
 <a href="#MullerEtAl2019">Müller, Jain, and Te (2019)</a> use a dataset provided by a Swiss automobile insurance company that contains 1.88 million women's and 2.18 million men's names from 172 nationalities. These names contain 99,000 (5.3%) uniquely female and 111,000 (5.1%) uniquely male given names. (In this research, gender-specific Japanese marathon rosters contain about 40% unique names for both women and men.) They define unisex as names found for both genders with the probably of each being less than 95%.
 
+<<<<<<< HEAD
 ## Characteristics of Japanese given names
 
 ### 1. Given names may have multiple readings
@@ -53,6 +54,11 @@ Research into gender disparities requires the ability to code the genders of per
 ## Notes
 
 <a id="MeijiyasudaReadingsGirls2020" href="https://www.meijiyasuda.co.jp/enjoy/ranking/read_best10/girl.html">Meiji-Yasuda 名前ベスト10の読み方、女性</a>
+=======
+### Gender attribution for Asian names
+
+Gender attribution for Asian names using European alphabets suffers from limitiations. The USPTO's <a href="#ProgressAndPotential2019">2019 Progress and Potential</a> profile of women inventors used a baseline attribution method based on IBM's Global Name Recognition system and WIPO7s worldwide gender-name dictionary (WGND). This baseline method was unable to classify gender for 54,400 cases from Japan, 34,600 cases from China and 28,300 cases from the Republic of Korea. These unclassified cases comprised 62% of the inventors residing in China and 31% of those residing in the Republic of Korea. 
+>>>>>>> f8f43a56f11562a8a6b147a213e881f3987796d8
 
 ## References
 <a id="DelixusNWBC2012">Delixus, Inc. and National Women’s Business Council (2012)</a> Intellectual Property and Women Entrepreneurs. <https://cdn.www.nwbc.gov/wp-content/uploads/2018/02/27192725/Qualitative-Analysis-Intellectual-Property-Women-Entrepreneurs-Part-1.pdf> (accessed 16 August 2021)
@@ -69,10 +75,14 @@ Research into gender disparities requires the ability to code the genders of per
 
 <a id="MullerEtAl2019">Müller, Daniel, Pratiksha Jain, and Yieh-Funk Te. (2019)</a> "Augmenting data quality through high-precision gender categorization." Journal of Data and Information Quality (JDIQ) 11(2):1-18. doi:10.1145/3297720
 
+<a id="ParkYoon2007">Park, Seong-Bae, and Hee-Geun Yoon (2007)</a>"Determining the Gender of Korean Names for Pronoun Generation." International Journal of Computer Science and Engineering 1.4 (2007): 226-30. [accessed 20 August 2021] https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.192.8977&rep=rep1&type=pdf
+
 <a id="SugimotoEtal2015">Sugimoto, Cassidy R., Chaoqun Ni, Jevin D. West, Vincent Larivière (2015)</a> The Academic Advantage: Gender Disparities in Patenting. PLoS ONE 10(5): e0128000. doi:10.1371/journal.pone.0128000
 
 <a id="TangEtal2011">Tang, Cong, Keith Ross, Nitesh Saxena, Ruichuan Xu (2011)</a> What's in a Name: A Study of Names, Gender Inference, and Gender Behavior in Facebook. In Jianliang Xu, Ge Yu, Shuigeng Zhou, and Rainer Unland (Eds.), Database Systems for Adanced Applications. DASFAA 2011. Lecture Notes in Computer Science, vol 6637. (pp. 344–356). Springer Berlin Heidelberg. [accessed 19 August 2021] https://doi-org.ezproxy.tulips.tsukuba.ac.jp/10.1007/978-3-642-20244-5_33
 
 <a id="ButtonsToBiotech1999">United States Patent and Trademark Office (1999)</a>. Buttons to Biotech. 1996 Update Report with supplemental data through 1998. https://www.uspto.gov/web/offices/ac/ido/oeip/taf/wom_98.pdf (accessed 17 August 2021)
+
+<a id="ProgressAndPotential2019">United States Patent and Trademark Office (2019)</a>. Progress and Potential: A profile of women inventors on U.S. patents. Office of the Chief Economist, IP Data Highlights, No. 2, February 2019, https://www.uspto.gov/sites/default/files/documents/OCE-DH-Progress-Potential-2020.pdf (accessed 17 August 2021)
 
 <a id="WhittingtonSmithDoerr2008">Whittington, Kjersten Bunker, and Laurel Smith-Doerr (2008)</a> “WOMEN INVENTORS IN CONTEXT: Disparities in Patenting across Academia and Industry.” Gender and Society, 22(2):194–218. JSTOR, www.jstor.org/stable/27821633. Accessed 13 August 2021.

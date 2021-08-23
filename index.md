@@ -6,12 +6,15 @@
 <ul>
     <li><a href="#Introduction">Introduction</a></li>
     <li><a href="#Ethics">Ethics and privacy</a></li>
-    <li><a href="#Background">Background</a></li>
+    <li><a href="#Background">Background</a>
+        <ul>
+        <a href="#NameMatchingEuropean">Name-matching using European alphabets</a>
+        <a href="#GenderAttributionEastAsian">Gender attribution for East Asian names</a>
+        </ul></li>
     <li><a href="#Datasets">Datasets</a>
         <ul>
         <a href="#JapaneseCelebs">Japanese celebrities</a>
-        </ul>
-    </li>
+        </ul></li>
     <li><a href="#Notes">Notes</a></li>
     <li><a href="#References">References</a></li>
     <li></li>
@@ -43,7 +46,7 @@ For individually searched given names, binary genders were assigned based on dec
 
 Research into gender disparities requires the ability to code the genders of persons in sample sets. This section reviews studies that code or classify gender based on given names. These studies are listed here chronologically by date of first publication.
 
-### Name-matching using European alphabets
+### <a id="NameMatchingEuropean">Name-matching using European alphabets</a>
 
 <a href="#ButtonsToBiotech1999">United States Patent and Trademark Office (1999)</a>, in its Buttons to Biotech report, matches the given names of inventors against a file of female-only given names. Patents having an inventor with a matching given name were classified as woman-inventor patents. Patents having inventors with given names that are male-only or ambiguous are assumed to be male.
 
@@ -59,7 +62,7 @@ Research into gender disparities requires the ability to code the genders of per
 
 <a href="#MullerEtAl2019">Müller, Jain, and Te (2019)</a> use a dataset provided by a Swiss automobile insurance company that contains 1.88 million women's and 2.18 million men's names from 172 nationalities. These names contain 99,000 (5.3%) uniquely female and 111,000 (5.1%) uniquely male given names. (In this research, gender-specific Japanese marathon rosters contain about 40% unique names for both women and men.) They define unisex as names found for both genders with the probably of each being less than 95%.
 
-### Gender attribution for Asian names
+### <a id="GenderAttributionEastAsian">Gender attribution for East Asian names</a>
 
 Gender attribution for Asian names using European alphabets suffers from limitiations. The USPTO's <a href="#ProgressAndPotential2019">2019 Progress and Potential</a> profile of women inventors used a baseline attribution method based on IBM's Global Name Recognition system and WIPO7s worldwide gender-name dictionary (WGND). This baseline method was unable to classify gender for 54,400 cases from Japan, 34,600 cases from China and 28,300 cases from the Republic of Korea. These unclassified cases comprised 62% of the inventors residing in China and 31% of those residing in the Republic of Korea. 
 
@@ -108,7 +111,7 @@ In contrast to South Korea, where <i>hanja</i> in names each have only one assoc
 
 ### <a id="JapaneseCelebs">Japanese celebrities</a>
 
-
+<a href="https://github.com/AlanInTsukuba/name-gender-ja/datasets/JapaneseCelebs.csv">JapaneseCelebs.csv</a> contains the given names, genders, full names and Wikipedia URL for 12397 Japanese celebrities scraped from the Wikipedia categories <a href="https://ja.wikipedia.org/wiki/Category:日本の女優">日本の女優 (Japanese female actors)</a> and <a href="https://ja.wikipedia.org/wiki/Category:日本の男優">日本の男優 (Japanese male actors)</a>; 5445 of these are women and 6952 are men. Uniquing on given name-gender tuples yielded 2701 unique female names and 4060 unique male names; 131 names were in both female and male uniqued sets. During clean up, original names were given precedence over stage names expect when the entry indicated transgender, in which case the first name after gender change was selected.
 
 ## <a id="Notes">Notes</a>
 

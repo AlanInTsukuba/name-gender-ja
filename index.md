@@ -15,8 +15,7 @@
         <li><a href="#JapaneseCelebs">Japanese celebrities</a></li></ul></li>
     <li><a href="#Notes">Notes</a></li>
     <li><a href="#References">References</a></li>
-    <li></li>
-</ul>
+ </ul>
 
 ## <a id="Introduction">Introduction</a>
 

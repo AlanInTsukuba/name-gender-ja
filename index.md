@@ -118,6 +118,8 @@ In contrast to South Korea, where <i>hanja</i> in names each have only one assoc
 
 ## <a id="References">References</a>
 
+<a id="Baresova2021">Barešová, Ivona (2021)</a> "Boy Or Girl? the Rise of Non-Gender-Specific Names in Japan." Silva Iaponicarum, no. 56-59, 2021, pp. 26. [accessed 22 August 2021] http://silvajp.home.amu.edu.pl/Silva%2056575859.pdf#page=26
+
 <a id="DelixusNWBC2012">Delixus, Inc. and National Women’s Business Council (2012)</a> Intellectual Property and Women Entrepreneurs. <https://cdn.www.nwbc.gov/wp-content/uploads/2018/02/27192725/Qualitative-Analysis-Intellectual-Property-Women-Entrepreneurs-Part-1.pdf> (accessed 16 August 2021)
 
 <a id="JensenEtAl2018">Jensen K, Kovács B, Sorenson O. (2018)</a> Gender differences in obtaining and maintaining patent rights. Nat Biotechnol. 2018 Apr 5;36(4):307-309. doi: 10.1038/nbt.4120. PMID: 29621210.

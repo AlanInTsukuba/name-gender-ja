@@ -1,6 +1,23 @@
 # Gender classification of given names for Japanese text
 
-## Introduction
+<p class="author"><a href="https://orcid.org/0000-0003-0070-2347" target="_blank">Alan Engel</a><br>Last update: 23 August 2021</p>
+
+## Table of Contents
+<ul>
+    <li><a href="#Introduction">Introduction</a></li>
+    <li><a href="#Ethics">Ethics and privacy</a></li>
+    <li><a href="#Background">Background</a></li>
+    <li><a href="#Datasets">Datasets</a>
+        <ul>
+        <a href="#JapaneseCelebs">Japanese celebrities</a>
+        </ul>
+    </li>
+    <li><a href="#Notes">Notes</a></li>
+    <li><a href="#References">References</a></li>
+    <li></li>
+</ul>
+
+## <a id="Introduction">Introduction</a>
 
 According to the Japan National Census, more than 40% of repondents who give their occupation as designer are women. This has been true since the 1990 census. On the other hand, the share of creators listed on Japanese registered designs who are women is unknown, perhaps around 10%. This project aims to quantify this share by developing name-gender data resources for estimating the genders of creators.
 
@@ -18,11 +35,11 @@ So far, two kinds of internet sources have been indentified that can be used for
 
 The given names collections are used to generate classification rules using the ending characters similar to those used by <a href="#LariviereEtal2013">Larivière et al (2013)</a> but with Japanese Kanji characters. (Release of dataset under consideration.)
 
-## Ethics and privacy
+## <a id="Ethics">Ethics and privacy</a>
 
 For individually searched given names, binary genders were assigned based on declared or revealed genders in Facebook profiles, Wikipedia biographies, or gender-specific sports rosters; inferred genders from obituaries and the like; or perceived genders from labeled photographs. Facebook profiles for which genders were hidden were excluded even if gender could be perceived from the profile photograph as hiding gender can be treated as explicitly prohibiting use of the profile for gender identification.
 
-## Background
+## <a id="Background">Background</a>
 
 Research into gender disparities requires the ability to code the genders of persons in sample sets. This section reviews studies that code or classify gender based on given names. These studies are listed here chronologically by date of first publication.
 
@@ -42,13 +59,13 @@ Research into gender disparities requires the ability to code the genders of per
 
 <a href="#MullerEtAl2019">Müller, Jain, and Te (2019)</a> use a dataset provided by a Swiss automobile insurance company that contains 1.88 million women's and 2.18 million men's names from 172 nationalities. These names contain 99,000 (5.3%) uniquely female and 111,000 (5.1%) uniquely male given names. (In this research, gender-specific Japanese marathon rosters contain about 40% unique names for both women and men.) They define unisex as names found for both genders with the probably of each being less than 95%.
 
-## Gender attribution for Asian names
+### Gender attribution for Asian names
 
 Gender attribution for Asian names using European alphabets suffers from limitiations. The USPTO's <a href="#ProgressAndPotential2019">2019 Progress and Potential</a> profile of women inventors used a baseline attribution method based on IBM's Global Name Recognition system and WIPO7s worldwide gender-name dictionary (WGND). This baseline method was unable to classify gender for 54,400 cases from Japan, 34,600 cases from China and 28,300 cases from the Republic of Korea. These unclassified cases comprised 62% of the inventors residing in China and 31% of those residing in the Republic of Korea. 
 
-### Characteristics of Japanese given names
+#### Characteristics of Japanese given names
 
-#### 1. Given names may have multiple readings
+##### 1. Given names may have multiple readings
 
 In contrast to South Korea, where <i>hanja</i> in names each have only one associated phonetic Hangul (<a href="#YasuokaYasuoka2016">Yasuoka and Yasuoka (2016)</a>), <i>kanji</i> names in Japan can have multiple readings. Among the 10 most popular girls and boys names in Japan in 2020, shown in the tables below, <i>kanji</i> names have up to 5 readings, and some readings are applied to multiple <i>kanji</i> names, even unisex.
 
@@ -87,13 +104,20 @@ In contrast to South Korea, where <i>hanja</i> in names each have only one assoc
 </tbody>
 </table>
 
-## Notes
+## <a id="Datasets">Datasets</a>
+
+### <a id="JapaneseCelebs">Japanese celebrities</a>
+
+
+
+## <a id="Notes">Notes</a>
 
 <a id="MeijiyasudaReadingsGirls2020" href="https://www.meijiyasuda.co.jp/enjoy/ranking/read_best10/girl.html">名前ベスト10の読み方、女の子 [Readings of the top 10 names, girls]</a>[accessed 21 August 2021]
 
 <a id="MeijiyasudaReadingsBoyss2020" href="https://www.meijiyasuda.co.jp/enjoy/ranking/read_best10/index.html">名前ベスト10の読み方、男の子[Readings of the top 10 names, boys]</a>[accessed 21 August 2021]
 
-## References
+## <a id="References">References</a>
+
 <a id="DelixusNWBC2012">Delixus, Inc. and National Women’s Business Council (2012)</a> Intellectual Property and Women Entrepreneurs. <https://cdn.www.nwbc.gov/wp-content/uploads/2018/02/27192725/Qualitative-Analysis-Intellectual-Property-Women-Entrepreneurs-Part-1.pdf> (accessed 16 August 2021)
 
 <a id="JensenEtAl2018">Jensen K, Kovács B, Sorenson O. (2018)</a> Gender differences in obtaining and maintaining patent rights. Nat Biotechnol. 2018 Apr 5;36(4):307-309. doi: 10.1038/nbt.4120. PMID: 29621210.

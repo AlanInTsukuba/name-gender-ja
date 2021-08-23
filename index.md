@@ -8,13 +8,11 @@
     <li><a href="#Ethics">Ethics and privacy</a></li>
     <li><a href="#Background">Background</a>
         <ul>
-        <a href="#NameMatchingEuropean">Name-matching using European alphabets</a>
-        <a href="#GenderAttributionEastAsian">Gender attribution for East Asian names</a>
-        </ul></li>
+        <li><a href="#NameMatchingEuropean">Name-matching using European alphabets</a></li>
+        <li><a href="#GenderAttributionEastAsian">Gender attribution for East Asian names</a></li></ul></li>
     <li><a href="#Datasets">Datasets</a>
         <ul>
-        <a href="#JapaneseCelebs">Japanese celebrities</a>
-        </ul></li>
+        <li><a href="#JapaneseCelebs">Japanese celebrities</a></li></ul></li>
     <li><a href="#Notes">Notes</a></li>
     <li><a href="#References">References</a></li>
     <li></li>

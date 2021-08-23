@@ -108,7 +108,7 @@ In contrast to South Korea, where <i>hanja</i> in names each have only one assoc
 
 ### <a id="JapaneseCelebs">Japanese celebrities</a>
 
-<a href="https://github.com/AlanInTsukuba/name-gender-ja/datasets/JapaneseCelebs.csv">JapaneseCelebs.csv</a> contains the given names, genders, full names and Wikipedia URL for 12397 Japanese celebrities scraped from the Wikipedia categories <a href="https://ja.wikipedia.org/wiki/Category:日本の女優">日本の女優 (Japanese female actors)</a> and <a href="https://ja.wikipedia.org/wiki/Category:日本の男優">日本の男優 (Japanese male actors)</a>; 5445 of these are women and 6952 are men. Uniquing on given name-gender tuples yielded 2701 unique female names and 4060 unique male names; 131 names were in both female and male uniqued sets. During clean up, original names were given precedence over stage names expect when the entry indicated transgender, in which case the first name after gender change was selected.
+<a href="https://github.com/AlanInTsukuba/name-gender-ja/blob/main/datasets/JapaneseCelebs.csv">JapaneseCelebs.csv</a> contains the given names, genders, full names and Wikipedia URL for 12397 Japanese celebrities scraped from the Wikipedia categories <a href="https://ja.wikipedia.org/wiki/Category:日本の女優">日本の女優 (Japanese female actors)</a> and <a href="https://ja.wikipedia.org/wiki/Category:日本の男優">日本の男優 (Japanese male actors)</a>; 5445 of these are women and 6952 are men. Uniquing on given name-gender tuples yielded 2701 unique female names and 4060 unique male names; 131 names were in both female and male uniqued sets. During clean up, original names were given precedence over stage names expect when the entry indicated transgender, in which case the first name after gender change was selected.
 
 ## <a id="Notes">Notes</a>
 

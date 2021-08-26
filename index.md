@@ -110,6 +110,26 @@ In contrast to South Korea, where <i>hanja</i> in names each have only one assoc
 
 <a href="https://github.com/AlanInTsukuba/name-gender-ja/blob/main/datasets/JapaneseCelebs.csv">JapaneseCelebs.csv</a> contains the given names, genders, full names and Wikipedia URL for 12397 Japanese celebrities scraped from the Wikipedia categories <a href="https://ja.wikipedia.org/wiki/Category:日本の女優">日本の女優 (Japanese female actors)</a> and <a href="https://ja.wikipedia.org/wiki/Category:日本の男優">日本の男優 (Japanese male actors)</a>; 5445 of these are women and 6952 are men. Uniquing on given name-gender tuples yielded 2701 unique female names and 4060 unique male names; 131 names were in both female and male uniqued sets. During clean up, original names were given precedence over stage names expect when the entry indicated transgender, in which case the first name after gender change was selected.
 
+### <a id="GivenNamesGenderDataset">GivenNamesGender.csv</a>
+
+Runner lists were obtained from nine geographically separated marathons. Cleaned of foreign names entered in either roman characters or katakana, these lists yielded 96,087 surname-given name-gender tuples, which were uniqued to produce 88,079 tuples. Uniquing makes the operating assumption that each unique tuple corresponds to a single runner who ran in multiple marathons. Women made up 21.2% of the list. This list was aggregated on given name to give counts of surnames, women and men for each given name. Using a threshold surname count of 23 (expectation value of 5 / share of women), Chi-square good-of-fit tests were run for names with surname counts greater than the threshold and Fisher exact test were run for names with surname counts greater than or equal to 2 and less than or equal to the threshold. With a p-value cutoff of 0.05, this yielded the 2744 gender-specific given names in GivenNamesGender.csv.
+
+<table>
+<caption><b>Sample rows from GivenNamesGender.csv</b></caption>
+<thead><tr><th>GivenName</th><th>SurnameCount</th>
+<th>Female</th><th>Male</th><th>Gender</th><th>pVal</th></tr></thead>
+<tbody>
+<tr><td>真奈</td><td>10</td><td>10</td><td>0</td><td>f</td><td>1.824277E-07</td></tr>
+<tr><td>真奈美</td><td>22</td><td>22</td><td>0</td><td>f</td><td>1.494169E-15</td></tr>
+<tr><td>真二</td><td>38</td><td>0</td><td>38</td><td>m</td><td>0.002</td></tr>
+<tr><td>真之</td><td>14</td><td>0</td><td>14</td><td>m</td><td>0.03566325</td></tr>
+</tbody>
+</table>
+
+
+
+### <a id="EndCharGenderDataset">EndCharGender.csv</a>
+
 ## <a id="Notes">Notes</a>
 
 <a id="MeijiyasudaReadingsGirls2020" href="https://www.meijiyasuda.co.jp/enjoy/ranking/read_best10/girl.html">名前ベスト10の読み方、女の子 [Readings of the top 10 names, girls]</a>[accessed 21 August 2021]

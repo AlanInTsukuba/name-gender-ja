@@ -22,7 +22,7 @@
 
 ## <a id="Introduction">Introduction</a>
 
-According to the Japan National Census, more than 40% of repondents who give their occupation as designer are women. This has been true since the 1990 census. On the other hand, the share of creators listed on Japanese registered designs who are women is unknown, perhaps around 10%. This project aims to quantify this share by developing name-gender data resources for estimating the genders of creators.
+As described in the background below, one line of research on gender disparities in STEM fields uses gender specificity of given names to code the genders of authors and inventors listed in existing bibliographic and intellectual property databases. 
 
 Three types of data resources are in development:
 

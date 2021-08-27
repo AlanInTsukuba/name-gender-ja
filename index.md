@@ -12,9 +12,10 @@
         <li><a href="#GenderAttributionEastAsian">Gender attribution for East Asian names</a></li></ul></li>
     <li><a href="#Datasets">Datasets</a>
         <ul>
-        <li><a href="#JapaneseCelebs">Japanese celebrities</a></li></ul></li>
-        <li><a href="#GivenNamesGenderDataset">Gender-specific given names</a></li></ul></li>
-        <li><a href="#EndCharGenderDataset">Gender-specific end characters</a></li></ul></li>
+        <li><a href="#JapaneseCelebs">Japanese celebrities</a></li>
+        <li><a href="#GivenNamesGenderDataset">Gender-specific given names</a></li>
+        <li><a href="#EndCharGenderDataset">Gender-specific end characters</a></li>
+        </ul></li>
     <li><a href="#Notes">Notes</a></li>
     <li><a href="#References">References</a></li>
  </ul>

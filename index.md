@@ -13,6 +13,8 @@
     <li><a href="#Datasets">Datasets</a>
         <ul>
         <li><a href="#JapaneseCelebs">Japanese celebrities</a></li></ul></li>
+        <li><a href="#GivenNamesGenderDataset">Gender-specific given names</a></li></ul></li>
+        <li><a href="#EndCharGenderDataset">Gender-specific end characters</a></li></ul></li>
     <li><a href="#Notes">Notes</a></li>
     <li><a href="#References">References</a></li>
  </ul>
@@ -110,9 +112,9 @@ In contrast to South Korea, where <i>hanja</i> in names each have only one assoc
 
 <a href="https://github.com/AlanInTsukuba/name-gender-ja/blob/main/datasets/JapaneseCelebs.csv">JapaneseCelebs.csv</a> contains the given names, genders, full names and Wikipedia URL for 12397 Japanese celebrities scraped from the Wikipedia categories <a href="https://ja.wikipedia.org/wiki/Category:日本の女優">日本の女優 (Japanese female actors)</a> and <a href="https://ja.wikipedia.org/wiki/Category:日本の男優">日本の男優 (Japanese male actors)</a>; 5445 of these are women and 6952 are men. Uniquing on given name-gender tuples yielded 2701 unique female names and 4060 unique male names; 131 names were in both female and male uniqued sets. During clean up, original names were given precedence over stage names expect when the entry indicated transgender, in which case the first name after gender change was selected.
 
-### <a id="GivenNamesGenderDataset">GivenNameGender.csv</a>
+### <a id="GivenNamesGenderDataset">Gender-specific given names</a>
 
-Runner lists were obtained from nine geographically separated marathons. Cleaned of foreign names entered in either roman characters or katakana, these lists yielded 96,087 surname-given name-gender tuples, which were uniqued to produce 88,079 tuples. Uniquing makes the operating assumption that each unique tuple corresponds to a single runner who ran in multiple marathons. Women made up 21.2% of the list. This list was aggregated on given name to give counts of surnames, women and men for each given name. Using a threshold surname count of 23 (expectation value of 5 / share of women), Chi-square good-of-fit tests were run for names with surname counts greater than the threshold and Fisher exact test were run for names with surname counts greater than or equal to 2 and less than or equal to the threshold. With a p-value cutoff of 0.05, this yielded the 2744 gender-specific given names in GivenNameGender.csv.
+Runner lists were obtained from nine geographically separated marathons. Cleaned of foreign names entered in either roman characters or katakana, these lists yielded 96,087 surname-given name-gender tuples, which were uniqued to produce 88,079 tuples. Uniquing makes the operating assumption that each unique tuple corresponds to a single runner who ran in multiple marathons. Women made up 21.2% of the list. This list was aggregated on given name to give counts of surnames, women and men for each given name. Using a threshold surname count of 23 (expectation value of 5 / share of women), Chi-square good-of-fit tests were run for names with surname counts greater than the threshold and Fisher exact test were run for names with surname counts greater than or equal to 2 and less than or equal to the threshold. With a p-value cutoff of 0.05, this yielded the 2744 gender-specific (1718 female, 1026 male) given names in GivenNameGender.csv.
 
 <table>
 <caption><b>Sample rows from GivenNameGender.csv</b></caption>
@@ -126,9 +128,21 @@ Runner lists were obtained from nine geographically separated marathons. Cleaned
 </tbody>
 </table>
 
+### <a id="EndCharGenderDataset">Gender-specific end characters</a>
 
+The same process for GivenNameGender.csv was followed except for further aggregating the given name aggregate list on the given names' end characters. With a p-value cutoff of 0.05, this yielded the 445 gender-specific (185 female, 260 male) end characters in EndCharGender.csv.
 
-### <a id="EndCharGenderDataset">EndCharGender.csv</a>
+<table>
+<caption><b>Sample rows from EndCharGender.csv</b></caption>
+<thead><tr><th>EndChar</th><th>SurnameCount</th>
+<th>Female</th><th>Male</th><th>Gender</th><th>pVal</th></tr></thead>
+<tbody>
+<tr><td>映</td><td>7</td><td>6</td><td>1</td><td>f</td><td>0.0005184512</td></tr>
+<tr><td>栄</td><td>74</td><td>27</td><td>47</td><td>f</td><td>0.002</td></tr>
+<tr><td>英</td><td>166</td><td>17</td><td>149</td><td>m</td><td>0.001</td></tr>
+<tr><td>衛</td><td>34</td><td>0</td><td>34</td><td>m</td><td>0.003</td></tr>
+</tbody>
+</table>
 
 ## <a id="Notes">Notes</a>
 

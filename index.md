@@ -22,7 +22,7 @@
 
 ## <a id="Introduction">Introduction</a>
 
-As described in the background below, one line of research on gender disparities in STEM fields uses gender specificity of given names to code the genders of authors and inventors listed in existing bibliographic and intellectual property databases. 
+There is a compelling need estimate gender based on given names that are written in Kanji and in Japanese text. Tools for estimating gender would enable research of gender disparities among authors, inventors, designers, politicians, government-certified bidders, licensed professionals and a wide range of other socioeconomic participants. 
 
 Three types of data resources are in development:
 

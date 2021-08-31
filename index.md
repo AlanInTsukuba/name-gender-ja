@@ -22,7 +22,7 @@
 
 ## <a id="Introduction">Introduction</a>
 
-There is a compelling need estimate gender based on given names that are written in Kanji and in Japanese text. Tools for estimating gender would enable research of gender disparities among authors, inventors, designers, politicians, government-certified bidders, licensed professionals and a wide range of other socioeconomic participants. 
+There is a compelling need for estimating gender based on given names that are written in Kanji and in Japanese text. Tools for estimating gender would enable research of gender disparities among authors, inventors, designers, politicians, government-certified bidders, licensed professionals and a wide range of other socioeconomic participants. 
 
 Three types of data resources are in development:
 
@@ -64,7 +64,11 @@ Research into gender disparities requires the ability to code the genders of per
 
 ### <a id="GenderAttributionEastAsian">Gender attribution for East Asian names</a>
 
-Gender attribution for Asian names using European alphabets suffers from limitiations. The USPTO's <a href="#ProgressAndPotential2019">2019 Progress and Potential</a> profile of women inventors used a baseline attribution method based on IBM's Global Name Recognition system and WIPO7s worldwide gender-name dictionary (WGND). This baseline method was unable to classify gender for 54,400 cases from Japan, 34,600 cases from China and 28,300 cases from the Republic of Korea. These unclassified cases comprised 62% of the inventors residing in China and 31% of those residing in the Republic of Korea. 
+Gender attribution for Asian names using European alphabets suffers from limitiations. The USPTO's <a href="#ProgressAndPotential2019">2019 Progress and Potential</a> profile of women inventors used a baseline attribution method based on IBM's Global Name Recognition system and WIPO7s worldwide gender-name dictionary (WGND). This baseline method was unable to classify gender for 54,400 cases from Japan, 34,600 cases from China and 28,300 cases from the Republic of Korea. These unclassified cases comprised 62% of the inventors residing in China and 31% of those residing in the Republic of Korea.
+
+#### Existing resources for Japanese given names written in Kanji
+
+
 
 #### Characteristics of Japanese given names
 
@@ -106,6 +110,10 @@ In contrast to South Korea, where <i>hanja</i> in names each have only one assoc
 <tr><td>10</td><td>大翔</td><td>Hiroto (12), Taiga (7), Haruto (5), Yamato (4), Taishi (2)</td></tr>
 </tbody>
 </table>
+
+##### 2. Given names commonly have gender-specific end characters
+
+
 
 ## <a id="Datasets">Datasets</a>
 
@@ -155,6 +163,8 @@ The same process for GivenNameGender.csv was followed except for further aggrega
 
 <a id="Baresova2021">Barešová, Ivona (2021)</a> "Boy Or Girl? the Rise of Non-Gender-Specific Names in Japan." Silva Iaponicarum, no. 56-59, 2021, pp. 26. [accessed 22 August 2021] http://silvajp.home.amu.edu.pl/Silva%2056575859.pdf#page=26
 
+<a id="Baresova2020">Baresova, Ivona (2020)</a> "Hiroko, Sachiko, Yoko : The Phenomenon of Female "-Ko" Names in Modern Japan." The Gakushuin Journal of International Studies, vol. 6, 2020, pp. 23-38. [accessed 31 August 2021] https://glim-re.repo.nii.ac.jp/?action=repository_uri&item_id=4831&file_id=22&file_no=1
+
 <a id="DelixusNWBC2012">Delixus, Inc. and National Women’s Business Council (2012)</a> Intellectual Property and Women Entrepreneurs. <https://cdn.www.nwbc.gov/wp-content/uploads/2018/02/27192725/Qualitative-Analysis-Intellectual-Property-Women-Entrepreneurs-Part-1.pdf> (accessed 16 August 2021)
 
 <a id="JensenEtAl2018">Jensen K, Kovács B, Sorenson O. (2018)</a> Gender differences in obtaining and maintaining patent rights. Nat Biotechnol. 2018 Apr 5;36(4):307-309. doi: 10.1038/nbt.4120. PMID: 29621210.
@@ -162,6 +172,8 @@ The same process for GivenNameGender.csv was followed except for further aggrega
 <a id="JensenKovacsSorenson2018">Jensen, Kyle, Balázs Kovács, and Olav Sorenson (2018)</a> "Gender Differences in Obtaining and Maintaining Patent Rights." Nature Biotechnology, vol. 36, no. 4, 2018, pp. 307-309. [accessed 9 December 2020] https://www-proquest-com.ezproxy.tulips.tsukuba.ac.jp/docview/2021770129?pq-origsite=summon
 
 <a id="LariviereEtal2013">Larivière, Vincent, Chaoqun Ni, Blaise Cronin, and Cassidy R. Sugimoto (2013).</a> "Global Gender Disparities in Science." Nature (London), 504(7479), pp. 211-213, doi:10.1038/504211a. Supplementary information.
+
+<a id="Kawagishi2013">Kawagishi, Katsumi (2013)</a> Changes in the use of Kanji for names and the motivation behind such change (in Japanese). Journal of Yasuda Women's University, 41, 1-14, 2013. [accessed 20 August 2021] https://yasuda-u.repo.nii.ac.jp/?action=repository_uri&item_id=97
 
 <a id="MartinezEtal2016">Martinez, Gema Lax, Julio Raffo, Kaori Saito (2016)</a> Identifying the gender of PCT inventors. Economic Research Working Paper No. 33. World Intelectual Property Organization. [accessed 19 August 2021] https://www.wipo.int/publications/en/details.jsp?id=4125&plang=EN
 

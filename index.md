@@ -68,7 +68,7 @@ Gender attribution for Asian names using European alphabets suffers from limitia
 
 #### Existing resources for Japanese given names written in Kanji
 
-
+Since the 1970s, Japanese parents have placed emphasis on finding unique names for their children (<a href="#Baresova2020">Baresova, 2020</a> and <a href="#Baresova2021">Baresova, 2021</a>). This popularity has given rise to a wide range of websites that provide lists of possible names with comments on meaning, phonology and numerology. The sources of names and rankings are unclear and names may not actually exist (see, for example, <a href="#douseidoumei_com">douseidoumei.com</a>). Two sites that specify their sources of data are <a href="#douseidoumei_net" >Dousei Doumei Jiten</a> and <a href="#namaejiten_com">Heisei Namae Jiten.</a> The former sources its data from a 2002 national telephone directory that was issued on CD-ROM and whose names are 90% male. The latter sources its data from an unnamed commercial database company and contains a more balanced mix of male and female names. The current project does not use either of these resources for intellectual property reasons.
 
 #### Characteristics of Japanese given names
 
@@ -158,6 +158,12 @@ The same process for GivenNameGender.csv was followed except for further aggrega
 <a id="MeijiyasudaReadingsGirls2020" href="https://www.meijiyasuda.co.jp/enjoy/ranking/read_best10/girl.html">名前ベスト10の読み方、女の子 [Readings of the top 10 names, girls]</a>[accessed 21 August 2021]
 
 <a id="MeijiyasudaReadingsBoyss2020" href="https://www.meijiyasuda.co.jp/enjoy/ranking/read_best10/index.html">名前ベスト10の読み方、男の子[Readings of the top 10 names, boys]</a>[accessed 21 August 2021]
+
+<a id="douseidoumei_com" href="http://douseidoumei.com/heisei/" target=_blank>平成同姓同名名前ランキング (Heisei same surname, same name ranking)</a>
+
+<a id="douseidoumei_net" href="http://www.douseidoumei.net/motodata.html"  target=_blank>Dousei Doumei Jiten (Same Surname, Same Name Dictionary)</a>
+
+<a id="namaejiten_com" href="http://www.namaejiten.com/motodata.html"  target=_blank>Heisei Namae Jiten (Heisei Names Dictionary)</a>
 
 ## <a id="References">References</a>
 

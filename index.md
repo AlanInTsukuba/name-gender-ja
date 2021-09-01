@@ -68,7 +68,7 @@ Gender attribution for Asian names using European alphabets suffers from limitia
 
 #### Existing resources for Japanese given names written in Kanji
 
-Since the 1970s, Japanese parents have placed emphasis on finding unique names for their children (<a href="#Baresova2020">Baresova, 2020</a> and <a href="#Baresova2021">Baresova, 2021</a>). This popularity has given rise to a wide range of websites that provide lists of possible names with comments on meaning, phonology and numerology. The sources of names and rankings are unclear and names may not actually exist (see, for example, <a href="#douseidoumei_com">douseidoumei.com</a>). Two sites that specify their sources of data are <a href="#douseidoumei_net" >Dousei Doumei Jiten</a> and <a href="#namaejiten_com">Heisei Namae Jiten.</a> The former sources its data from a 2002 national telephone directory that was issued on CD-ROM and whose names are 90% male. The latter sources its data from an unnamed commercial database company and contains a more balanced mix of male and female names. The current project does not use either of these resources for intellectual property reasons.
+Since the 1970s, Japanese parents have placed emphasis on finding unique names for their children (<a href="#Baresova2020">Baresova, 2020</a> and <a href="#Baresova2021">Baresova, 2021</a>). This popularity has given rise to a wide range of websites that provide lists of possible names with comments on meaning, phonology and numerology. The sources of names and rankings are unclear and names may not actually exist (see, for example, <a href="#douseidoumei_com">douseidoumei.com</a>). Two sites that specify their sources of data are <a href="#douseidoumei_net" >Dousei Doumei Jiten</a> and <a href="#namaejiten_com">Heisei Namae Jiten.</a> The former sources its data from a 2002 national telephone directory that was issued on CD-ROM and whose names are 90% male. The latter sources its data from an unnamed commercial database company and contains a more balanced mix of male and female names. The current project does uses neither of these resources.
 
 #### Characteristics of Japanese given names
 
@@ -113,7 +113,15 @@ In contrast to South Korea, where <i>hanja</i> in names each have only one assoc
 
 ##### 2. Given names commonly have gender-specific end characters
 
+TBA
 
+#### Characteristics of Chinese, Korean, Taiwanese and other Asian given names as they occur in Japanese text and databases
+
+TBA
+
+## <a id="TargetData">Target data</a>
+
+TBA
 
 ## <a id="Datasets">Datasets</a>
 

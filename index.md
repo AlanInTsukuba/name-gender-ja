@@ -131,15 +131,15 @@ TBA
 <table>
 <caption><b>Individually searched given names of persons listed on Japanese registered designs 2000-2018</b></caption>
 <thead>
-<tr><th>Class</th><th>Female</th><th>Male</th><th>Both</th><th>Undetermined</th><th>Total</th></tr>
+<tr><th>Category</th><th>Female</th><th>Male</th><th>Both</th><th>Undetermined</th><th>Total</th></tr>
 </thead>
 <tbody>
 <tr><td>Examiners</td><td>45</td><td>100</td><td>0</td><td>0</td><td>145</td></tr>
 <tr><td>Agents*</td><td>499</td><td>2926</td><td>32</td><td>9</td><td>3466</td></tr>
 <tr><td>Creators</td><td>402</td><td>3849</td><td>146</td><td>240</td><td>4637</td></tr>
-<tr><td>Total</td><td>920</td><td>6807</td><td>180</td><td>249</td><td>8156</td></tr>
+<tr><td>Total<br>(uniqued)</td><td>920</td><td>6807</td><td>180</td><td>249</td><td>8156</td></tr>
+<tr><td colspan=6>*Excludes firms and companies listed as agents.</td></tr>
 </tbody>
-<caption>*Excludes firms and companies listed as agents.</caption>
 </table>
 
 ### <a id="JapaneseCelebs">Japanese celebrities</a>

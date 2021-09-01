@@ -184,11 +184,11 @@ The same process for GivenNameGender.csv was followed except for further aggrega
 
 <a id="MeijiyasudaReadingsBoyss2020" href="https://www.meijiyasuda.co.jp/enjoy/ranking/read_best10/index.html">名前ベスト10の読み方、男の子[Readings of the top 10 names, boys]</a>[accessed 21 August 2021]
 
-<a id="douseidoumei_com" href="http://douseidoumei.com/heisei/" target=_blank>平成同姓同名名前ランキング (Heisei same surname, same name ranking)</a>
+<a id="douseidoumei_com" href="http://douseidoumei.com/heisei/" target=_blank>平成同姓同名名前ランキング (Heisei same surname, same name ranking)</a> [accessed 31 August 2021] http://douseidoumei.com/heisei/
 
-<a id="douseidoumei_net" href="http://www.douseidoumei.net/motodata.html"  target=_blank>Dousei Doumei Jiten (Same Surname, Same Name Dictionary)</a>
+<a id="douseidoumei_net" href="http://www.douseidoumei.net/motodata.html"  target=_blank>Dousei Doumei Jiten (Same Surname, Same Name Dictionary)</a> [accessed 31 August 2021] http://www.douseidoumei.net/motodata.html
 
-<a id="namaejiten_com" href="http://www.namaejiten.com/motodata.html"  target=_blank>Heisei Namae Jiten (Heisei Names Dictionary)</a>
+<a id="namaejiten_com" href="http://www.namaejiten.com/motodata.html"  target=_blank>Heisei Namae Jiten (Heisei Names Dictionary)</a> [accessed 31 August 2021] http://www.namaejiten.com/motodata.html
 
 ## <a id="References">References</a>
 

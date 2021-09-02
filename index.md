@@ -206,6 +206,8 @@ The same process for GivenNameGender.csv was followed except for further aggrega
 
 <a id="Kawagishi2013">Kawagishi, Katsumi (2013)</a> Changes in the use of Kanji for names and the motivation behind such change (in Japanese). Journal of Yasuda Women's University, 41, 1-14, 2013. [accessed 20 August 2021] https://yasuda-u.repo.nii.ac.jp/?action=repository_uri&item_id=97
 
+<a id="KnowlesEtal2016">Knowles, Rebecca, Josh Carroll, Mark Dredze (2016)</a>. Demographer: Extremely simple name demographics. Proceedings of 2016 EMNLP Workshop on Natural Language Processing and Computational Social Science. Association for Computational Linguistics. November 2016. pp 108-113. [accessed 28 August 2021] https://doi.org/10.18653/v1/W16-5614
+
 <a id="MartinezEtal2016">Martinez, Gema Lax, Julio Raffo, Kaori Saito (2016)</a> Identifying the gender of PCT inventors. Economic Research Working Paper No. 33. World Intelectual Property Organization. [accessed 19 August 2021] https://www.wipo.int/publications/en/details.jsp?id=4125&plang=EN
 
 <a id="MartinezEtal2021">Martinez, Gema Lax, Helena Saenz de Juano-i-Ribes, Deyun Yin, Bruno Le Feuvre, Intan Hamdan-Livramento, Kaori Saito, Julio Raffo (2021)</a> Expanding the World Gender-Name Dictionary: WGND 2.0. Economic Research Working Paper No. 64. World Intelectual Property Organization. [accessed 19 August 2021] https://www.wipo.int/edocs/pubdocs/en/wipo_pub_econstat_wp_64.pdf

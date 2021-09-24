@@ -309,6 +309,67 @@ The same process for GivenNameGender.csv was followed except for further aggrega
   <td class=xl85 align=right>83469</td>
   <td></td>
  </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td rowspan=4 height=74 class=xl66 width=97 style='height:55.5pt;width:73pt'>Japanese
+  celebreties (Wikipedia)</td>
+  <td>Female</td>
+  <td colspan=5 style='mso-ignore:colspan'></td>
+  <td class=xl68 align=right style='border-top:none'>11427</td>
+  <td class=xl69 style='border-top:none'> </td>
+  <td class=xl69 style='border-top:none'> </td>
+  <td class=xl70 style='border-top:none'> </td>
+  <td align=right>10562</td>
+  <td align=right>0</td>
+  <td></td>
+  <td class=xl81 align=right style='border-top:none'>10853</td>
+  <td class=xl77 align=right style='border-top:none'>411</td>
+  <td class=xl78 style='border-top:none'> </td>
+  <td></td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td height=18 style='height:13.5pt'>Male</td>
+  <td colspan=5 style='mso-ignore:colspan'></td>
+  <td class=xl71> </td>
+  <td align=right>70699</td>
+  <td></td>
+  <td class=xl72> </td>
+  <td align=right>144</td>
+  <td align=right>55482</td>
+  <td></td>
+  <td class=xl82 align=right>981</td>
+  <td align=right>68736</td>
+  <td class=xl79> </td>
+  <td></td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td height=18 style='height:13.5pt'>Both</td>
+  <td colspan=5 style='mso-ignore:colspan'></td>
+  <td class=xl71> </td>
+  <td></td>
+  <td align=right>3298</td>
+  <td class=xl72> </td>
+  <td align=right>918</td>
+  <td align=right>1720</td>
+  <td></td>
+  <td class=xl82 align=right>1124</td>
+  <td align=right>1810</td>
+  <td class=xl79> </td>
+  <td></td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 style='height:14.25pt'>Subtotal</td>
+  <td colspan=5 style='mso-ignore:colspan'></td>
+  <td class=xl73> </td>
+  <td class=xl74> </td>
+  <td class=xl74> </td>
+  <td class=xl75 align=right>85424</td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+  <td align=right>68826</td>
+  <td class=xl83> </td>
+  <td class=xl84> </td>
+  <td class=xl85 align=right>83915</td>
+  <td></td>
+ </tr>
 </table>
 
 ## <a id="Notes">Notes</a>

@@ -415,17 +415,7 @@ The same process for GivenNameGender.csv was followed except for further aggrega
   <td class=xl70 style='border-top:none'> </td>
   <td></td>
  </tr>
-  <tr height=19 style='height:14.25pt'>
-  <td rowspan=3 height=56 class=xl66 width=97 style='height:42.0pt;width:73pt'>Marathon
-  rosters (end characters)</td>
-  <td>Female</td>
-  <td colspan=12 style='mso-ignore:colspan'></td>
-  <td class=xl68 align=right style='border-top:none'>19692</td>
-  <td class=xl69 style='border-top:none'> </td>
-  <td class=xl70 style='border-top:none'> </td>
-  <td></td>
- </tr>
- <tr height=18 style='height:13.5pt'>
+  <tr height=18 style='height:13.5pt'>
   <td height=18 style='height:13.5pt'>Male</td>
   <td colspan=12 style='mso-ignore:colspan'></td>
   <td class=xl71> </td>

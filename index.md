@@ -1,6 +1,6 @@
 # Gender classification of given names for Japanese text
 
-<p class="author"><a href="https://orcid.org/0000-0003-0070-2347" target="_blank">Alan Engel</a><br>Last update: 23 August 2021</p>
+<p class="author"><a href="https://orcid.org/0000-0003-0070-2347" target="_blank">Alan Engel</a><br>Last update: 24 September 2021</p>
 
 ## Table of Contents
 <ul>
@@ -134,10 +134,10 @@ TBA
 <tr><th>Category</th><th>Female</th><th>Male</th><th>Both</th><th>Undetermined</th><th>Total</th></tr>
 </thead>
 <tbody>
-<tr><td>Examiners</td><td>45</td><td>100</td><td>0</td><td>0</td><td>145</td></tr>
-<tr><td>Agents*</td><td>499</td><td>2926</td><td>32</td><td>9</td><td>3466</td></tr>
-<tr><td>Creators</td><td>402</td><td>3849</td><td>146</td><td>240</td><td>4637</td></tr>
-<tr><td>Total<br>(uniqued)</td><td>920</td><td>6807</td><td>180</td><td>249</td><td>8156</td></tr>
+<tr><td>Examiners</td><td>42</td><td>97</td><td>3</td><td>0</td><td>145</td></tr>
+<tr><td>Agents*</td><td>466</td><td>2894</td><td>65</td><td>8</td><td>3433</td></tr>
+<tr><td>Creators</td><td>430</td><td>4103</td><td>152</td><td>270</td><td>4955</td></tr>
+<tr><td>Total<br>(uniqued)</td><td>917</td><td>7030</td><td>217</td><td>249</td><td>8413</td></tr>
 <tr><td colspan=6>*Excludes firms and companies listed as agents.</td></tr>
 </tbody>
 </table>
@@ -177,6 +177,55 @@ The same process for GivenNameGender.csv was followed except for further aggrega
 <tr><td>衛</td><td>34</td><td>0</td><td>34</td><td>m</td><td>0.003</td></tr>
 </tbody>
 </table>
+
+### <a id="CreatorNamesComparison">Applying data sets to creator names</a>
+
+<table>
+<tr height=18 style='height:13.5pt'>
+  <td height=18 width=97 style='height:13.5pt;width:73pt'></td>
+  <td width=93 style='width:70pt'></td>
+  <td width=72 style='width:54pt'></td>
+  <td width=72 style='width:54pt'></td>
+  <td width=72 style='width:54pt'></td>
+  <td width=72 style='width:54pt'></td>
+  <td width=72 style='width:54pt'></td>
+  <td width=72 style='width:54pt'></td>
+  <td width=72 style='width:54pt'></td>
+  <td width=72 style='width:54pt'></td>
+  <td width=72 style='width:54pt'></td>
+  <td colspan=6 class=xl65 width=432 style='width:324pt'>Marathon rosters</td>
+  <td width=99 style='width:74pt'></td>
+ </tr>
+  <tr height=25 style='height:18.75pt'>
+  <td height=25 colspan=3 style='height:18.75pt'></td>
+  <td colspan=4 class=xl65>Individually searched</td>
+  <td colspan=4 class=xl66 width=288 style='width:216pt'>Japanese celebrities
+  (Wikipedia)</td>
+  <td colspan=3 class=xl66 width=216 style='width:162pt'>Given names</td>
+  <td colspan=3 class=xl66 width=216 style='width:162pt'>End characters</td>
+  <td>Undetermined</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 style='height:14.25pt'></td>
+  <td>Names</td>
+  <td>Total</td>
+  <td>Female</td>
+  <td>Male</td>
+  <td>Both</td>
+  <td>Subtotal</td>
+  <td>Female</td>
+  <td>Male</td>
+  <td>Both</td>
+  <td>Subtotal</td>
+  <td>Female</td>
+  <td>Male</td>
+  <td>Subtotal</td>
+  <td>Female</td>
+  <td>Male</td>
+  <td>Subtotal</td>
+  <td></td>
+ </tr>
+ </table>
 
 ## <a id="Notes">Notes</a>
 

@@ -237,19 +237,76 @@ The same process for GivenNameGender.csv was followed except for further aggrega
   <td>Female</td>
   <td></td>
   <td class=xl68 align=right>8809</td>
-  <td class=xl69>�@</td>
-  <td class=xl69>�@</td>
-  <td class=xl70>�@</td>
+  <td class=xl69> </td>
+  <td class=xl69> </td>
+  <td class=xl70> </td>
   <td class=xl76 align=right style='border-left:none'>7019</td>
   <td class=xl77 align=right>96</td>
   <td class=xl77 align=right>776</td>
-  <td class=xl78>�@</td>
+  <td class=xl78> </td>
   <td class=xl81 align=right style='border-left:none'>8031</td>
   <td class=xl77 align=right>0</td>
-  <td class=xl77>�@</td>
+  <td class=xl77> </td>
   <td class=xl81 align=right>7985</td>
   <td class=xl77 align=right>363</td>
-  <td class=xl78>�@</td>
+  <td class=xl78> </td>
+  <td></td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td height=18 style='height:13.5pt'>Male</td>
+  <td></td>
+  <td class=xl71> </td>
+  <td align=right>78858</td>
+  <td></td>
+  <td class=xl72> </td>
+  <td class=xl71 align=right style='border-left:none'>50</td>
+  <td align=right>57282</td>
+  <td align=right>1992</td>
+  <td class=xl79> </td>
+  <td class=xl82 align=right style='border-left:none'>163</td>
+  <td align=right>58011</td>
+  <td></td>
+  <td class=xl82 align=right>1571</td>
+  <td align=right>73161</td>
+  <td class=xl79> </td>
+  <td></td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td height=18 style='height:13.5pt'>Both</td>
+  <td></td>
+  <td class=xl71> </td>
+  <td></td>
+  <td align=right>560</td>
+  <td class=xl72> </td>
+  <td class=xl71 align=right style='border-left:none'>73</td>
+  <td align=right>50</td>
+  <td align=right>132</td>
+  <td class=xl79> </td>
+  <td class=xl82 align=right style='border-left:none'>109</td>
+  <td align=right>45</td>
+  <td></td>
+  <td class=xl82 align=right>262</td>
+  <td align=right>127</td>
+  <td class=xl79> </td>
+  <td></td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 style='height:14.25pt'>Subtotal</td>
+  <td></td>
+  <td class=xl73> </td>
+  <td class=xl74> </td>
+  <td class=xl74> </td>
+  <td class=xl75 align=right>88227</td>
+  <td class=xl73 style='border-left:none'> </td>
+  <td class=xl74> </td>
+  <td class=xl74> </td>
+  <td class=xl80 align=right>67470</td>
+  <td class=xl83 style='border-left:none'> </td>
+  <td class=xl84> </td>
+  <td class=xl84 align=right>66359</td>
+  <td class=xl83> </td>
+  <td class=xl84> </td>
+  <td class=xl85 align=right>83469</td>
   <td></td>
  </tr>
 </table>

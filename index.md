@@ -225,7 +225,34 @@ The same process for GivenNameGender.csv was followed except for further aggrega
   <td>Subtotal</td>
   <td></td>
  </tr>
- </table>
+  <tr height=20 style='height:15.0pt'>
+  <td height=20 style='height:15.0pt'></td>
+  <td>Total</td>
+  <td class=xl86 align=right>145689</td>
+  <td colspan=15 ></td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td rowspan=4 height=74 class=xl66 width=97 style='height:55.5pt;width:73pt'>Individually
+  searched</td>
+  <td>Female</td>
+  <td></td>
+  <td class=xl68 align=right>8809</td>
+  <td class=xl69>�@</td>
+  <td class=xl69>�@</td>
+  <td class=xl70>�@</td>
+  <td class=xl76 align=right style='border-left:none'>7019</td>
+  <td class=xl77 align=right>96</td>
+  <td class=xl77 align=right>776</td>
+  <td class=xl78>�@</td>
+  <td class=xl81 align=right style='border-left:none'>8031</td>
+  <td class=xl77 align=right>0</td>
+  <td class=xl77>�@</td>
+  <td class=xl81 align=right>7985</td>
+  <td class=xl77 align=right>363</td>
+  <td class=xl78>�@</td>
+  <td></td>
+ </tr>
+</table>
 
 ## <a id="Notes">Notes</a>
 

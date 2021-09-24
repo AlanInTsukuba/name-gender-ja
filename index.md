@@ -311,7 +311,7 @@ The same process for GivenNameGender.csv was followed except for further aggrega
  </tr>
  <tr height=19 style='height:14.25pt'>
   <td rowspan=4 height=74 class=xl66 width=97 style='height:55.5pt;width:73pt'>Japanese
-  celebreties (Wikipedia)</td>
+  celebrities (Wikipedia)</td>
   <td>Female</td>
   <td colspan=5 style='mso-ignore:colspan'></td>
   <td class=xl68 align=right style='border-top:none'>11427</td>
@@ -369,6 +369,85 @@ The same process for GivenNameGender.csv was followed except for further aggrega
   <td class=xl84> </td>
   <td class=xl85 align=right>83915</td>
   <td></td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td rowspan=3 height=56 class=xl66 width=97 style='height:42.0pt;width:73pt'>Marathon
+  rosters (given names)</td>
+  <td>Female</td>
+  <td colspan=9 style='mso-ignore:colspan'></td>
+  <td class=xl68 align=right>13280</td>
+  <td class=xl69> </td>
+  <td class=xl70> </td>
+  <td class=xl76 align=right style='border-top:none;border-left:none'>12848</td>
+  <td class=xl77 align=right style='border-top:none'>306</td>
+  <td class=xl78 style='border-top:none'> </td>
+  <td></td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td height=18 style='height:13.5pt'>Male</td>
+  <td colspan=9 style='mso-ignore:colspan'></td>
+  <td class=xl71> </td>
+  <td align=right>64679</td>
+  <td class=xl72> </td>
+  <td class=xl71 align=right style='border-left:none'>604</td>
+  <td align=right>63893</td>
+  <td class=xl79> </td>
+  <td></td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 style='height:14.25pt'>Subtotal</td>
+  <td colspan=9 style='mso-ignore:colspan'></td>
+  <td class=xl73> </td>
+  <td class=xl74> </td>
+  <td class=xl75 align=right>77959</td>
+  <td class=xl73 style='border-left:none'> </td>
+  <td class=xl74> </td>
+  <td class=xl80 align=right>77651</td>
+  <td></td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td rowspan=3 height=56 class=xl66 width=97 style='height:42.0pt;width:73pt'>Marathon
+  rosters (end characters)</td>
+  <td>Female</td>
+  <td colspan=12 style='mso-ignore:colspan'></td>
+  <td class=xl68 align=right style='border-top:none'>19692</td>
+  <td class=xl69 style='border-top:none'> </td>
+  <td class=xl70 style='border-top:none'> </td>
+  <td></td>
+ </tr>
+  <tr height=19 style='height:14.25pt'>
+  <td rowspan=3 height=56 class=xl66 width=97 style='height:42.0pt;width:73pt'>Marathon
+  rosters (end characters)</td>
+  <td>Female</td>
+  <td colspan=12 style='mso-ignore:colspan'></td>
+  <td class=xl68 align=right style='border-top:none'>19692</td>
+  <td class=xl69 style='border-top:none'> </td>
+  <td class=xl70 style='border-top:none'> </td>
+  <td></td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td height=18 style='height:13.5pt'>Male</td>
+  <td colspan=12 style='mso-ignore:colspan'></td>
+  <td class=xl71> </td>
+  <td align=right>120289</td>
+  <td class=xl72> </td>
+  <td></td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 style='height:14.25pt'>Subtotal</td>
+  <td colspan=12 style='mso-ignore:colspan'></td>
+  <td class=xl73> </td>
+  <td class=xl74> </td>
+  <td class=xl75 align=right>139981</td>
+  <td></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 style='height:15.0pt'>Undetermined</td>
+  <td colspan=16 style='mso-ignore:colspan'></td>
+  <td class=xl86 align=right>472</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 colspan=18 style='height:14.25pt;mso-ignore:colspan'></td>
  </tr>
 </table>
 

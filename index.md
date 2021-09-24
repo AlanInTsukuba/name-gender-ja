@@ -180,7 +180,9 @@ The same process for GivenNameGender.csv was followed except for further aggrega
 
 ### <a id="CreatorNamesComparison">Applying data sets to creator names</a>
 
+To compare gender assignments using the 4 datasets above, I applied them to the names of creators listed on Japanese designs registered between 2000 and 2018. The creators were restricted to those with Japanese addresses and those designs applied for directly at the Japanese patent office. This excludes creators with Japanese addresses whose registrations were applied for via the Hague Convention.
 <table>
+<caption><b>Datasets applied to creators creators listed on Japanese designs registered between 2000 and 2018</b></caption>
 <tr height=18 style='height:13.5pt'>
   <td height=18 width=97 style='height:13.5pt;width:73pt'></td>
   <td width=93 style='width:70pt'></td>

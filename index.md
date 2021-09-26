@@ -268,21 +268,21 @@ The following table looks at consistency between datasets.
 <tr height=19 style='height:14.25pt'>
   <td height=19 style='height:14.25pt'></td>
   <td></td>
-  <td>Matches</td>
+  <td>Shared matches</td>
   <td colspan=2>Female</td>
   <td colspan=2>Male</td>
   <td colspan=2>Both</td>
-   <td>Matches</td>
+   <td>Shared matches</td>
   <td colspan=2>Female</td>
   <td colspan=2>Male</td>
-  <td>Matches</td>
+  <td>Shared matches</td>
   <td colspan=2>Female</td>
   <td colspan=2>Male</td>
  </tr>
  <tr height=19 style='height:14.25pt'>
   <td rowspan=4 height=74 class=xl66 width=97 style='height:55.5pt;width:73pt'>Individually
   searched</td>
-  <td>Matches</td>
+  <td>Shared matches</td>
   <td class=xl68 align=right>67470</td>
   <td class=xl69></td>
   <td class=xl69></td>
@@ -361,6 +361,89 @@ The following table looks at consistency between datasets.
   <td class=xl69>0.3%</td>
   <td class=xl69>127</td>
   <td class=xl69>0.2%</td>
+  </tr>
+
+<tr height=19 style='height:14.25pt'>
+  <td rowspan=4 height=74 class=xl66 width=97 style='height:55.5pt;width:73pt'>Japanese celebrities</td>
+  <td>Shared matches</td>
+  <td class=xl68 align=right></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl70></td>
+  <td class=xl76 align=right style='border-left:none'></td>
+  <td class=xl77 align=right></td>
+  <td class=xl77 align=right></td>
+  <td class=xl68 align=right>68826</td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl68 align=right>83915</td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td>Female</td>
+  <td class=xl68 align=right>
+</td>
+  <td class=xl69></td>
+  <td class=xl69> </td>
+  <td class=xl70> </td>
+  <td class=xl76 align=right style='border-left:none'></td>
+  <td class=xl77 align=right></td>
+  <td class=xl77 align=right></td>
+  <td class=xl68 align=right></td>
+  <td class=xl69>10562</td>
+  <td class=xl69>15.3%</td>
+  <td class=xl69>0</td>
+  <td class=xl69>0.0%</td>
+  <td class=xl68 align=right></td>
+  <td class=xl69>10853</td>
+  <td class=xl69>12.9%</td>
+  <td class=xl69>411</td>
+  <td class=xl69>0.5%</td>
+  </tr>
+<tr height=19 style='height:14.25pt'>
+  <td>Male</td>
+  <td class=xl68 align=right></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl70></td>
+  <td class=xl76 align=right style='border-left:none'></td>
+  <td class=xl77 align=right></td>
+  <td class=xl77 align=right></td>
+  <td class=xl68 align=right></td>
+  <td class=xl69>144</td>
+  <td class=xl69>0.2%</td>
+  <td class=xl69>55482</td>
+  <td class=xl69>80.6%</td>
+  <td class=xl68 align=right></td>
+  <td class=xl69>981</td>
+  <td class=xl69>1.2%</td>
+  <td class=xl69>68736</td>
+  <td class=xl69>81.9%</td>
+  </tr>
+<tr height=19 style='height:14.25pt'>
+  <td>Both</td>
+  <td class=xl68 align=right></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl70></td>
+  <td class=xl76 align=right style='border-left:none'></td>
+  <td class=xl77 align=right></td>
+  <td class=xl77 align=right></td>
+  <td class=xl68 align=right></td>
+  <td class=xl69>918</td>
+  <td class=xl69>1.3%</td>
+  <td class=xl69>1720</td>
+  <td class=xl69>2.5%</td>
+  <td class=xl68 align=right></td>
+  <td class=xl69>1124</td>
+  <td class=xl69>1.3%</td>
+  <td class=xl69>1810</td>
+  <td class=xl69>2.2%</td>
   </tr>
 </table>
 <!--

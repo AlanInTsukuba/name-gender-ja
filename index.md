@@ -250,28 +250,34 @@ The following table looks at consistency between datasets.
 <tr height=18 style='height:13.5pt'>
   <td height=18 width=97 style='height:13.5pt;width:73pt'></td>
   <td width=93 style='width:70pt'></td>
+  <td width=72 style='width:54pt'></td>
   <td colspan=2 width=144 style='width:108pt'></td>
   <td colspan=2 width=144 style='width:108pt'></td>
-  <td colspan=2 width=144 style='width:108pt'></td>
+  <td width=72 style='width:54pt'></td>
   <td colspan=2 width=144 style='width:108pt'></td>
   <td colspan=2 width=144 style='width:108pt'></td>
   <td colspan=6 class=xl65 width=432 style='width:324pt'>Marathon rosters</td>
-  <td width=99 style='width:74pt'></td>
  </tr>
- <tr height=19 style='height:14.25pt'>
+   <tr height=25 style='height:18.75pt'>
+  <td height=25 style='height:18.75pt'></td>
+  <td colspan=7 class=xl66 width=288 style='width:216pt'>Japanese celebrities
+  (Wikipedia)</td>
+  <td colspan=5 class=xl66 width=216 style='width:162pt'>Given names</td>
+  <td colspan=5 class=xl66 width=216 style='width:162pt'>End characters</td>
+ </tr>
+<tr height=19 style='height:14.25pt'>
   <td height=19 style='height:14.25pt'></td>
   <td></td>
-  <td colspan=2 width=144 style='width:108pt'>Female</td>
-  <td colspan=2 width=144 style='width:108pt'>Male</td>
-  <td colspan=2 width=144 style='width:108pt'>Both</td>
   <td>Subtotal</td>
-  <td colspan=2 width=144 style='width:108pt'>Female</td>
-  <td colspan=2 width=144 style='width:108pt'>Male</td>
+  <td colspan=2>Female</td>
+  <td colspan=2>Male</td>
+  <td colspan=2>Both</td>
+   <td>Subtotal</td>
+  <td colspan=2>Female</td>
+  <td colspan=2>Male</td>
   <td>Subtotal</td>
-  <td colspan=2 width=144 style='width:108pt'>Female</td>
-  <td colspan=2 width=144 style='width:108pt'>Male</td>
-  <td>Subtotal</td>
-  <td></td>
+  <td colspan=2>Female</td>
+  <td colspan=2>Male</td>
  </tr>
 </table>
 <!--

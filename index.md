@@ -201,6 +201,42 @@ To compare gender assignments using the 4 datasets above, I applied them to the 
   <td width=72 style='width:54pt'>560</td>
   <td width=72 style='width:54pt'>0.6%</td>
  </tr>
+<tr height=18 style='height:13.5pt'>
+  <td height=18 width=97 style='height:13.5pt;width:73pt'>Japanese celebrities (Wikipedia)</td>
+  <td width=72 style='width:54pt'>85424</td>
+  <td width=72 style='width:54pt'>58.6%</td>
+  <td width=72 style='width:54pt'>11427</td>
+  <td width=72 style='width:54pt'>13.4%</td>
+  <td width=72 style='width:54pt'>70699</td>
+  <td width=72 style='width:54pt'>82.8%</td>
+  <td width=72 style='width:54pt'>3298</td>
+  <td width=72 style='width:54pt'>3.9%</td>
+ </tr>
+<tr height=18 style='height:13.5pt'>
+  <td height=18 width=97 style='height:13.5pt;width:73pt'>Marathon rosters (given names)</td>
+  <td width=72 style='width:54pt'>77959</td>
+  <td width=72 style='width:54pt'>53.5%</td>
+  <td width=72 style='width:54pt'>13280</td>
+  <td width=72 style='width:54pt'>17.0%</td>
+  <td width=72 style='width:54pt'>64679</td>
+  <td width=72 style='width:54pt'>83.0%</td>
+  <td colspan=2 width=144 style='width:108pt'>NA</td>
+ </tr>
+<tr height=18 style='height:13.5pt'>
+  <td height=18 width=97 style='height:13.5pt;width:73pt'>Marathon rosters (end characters)</td>
+  <td width=72 style='width:54pt'>139981</td>
+  <td width=72 style='width:54pt'>96.1%</td>
+  <td width=72 style='width:54pt'>19692</td>
+  <td width=72 style='width:54pt'>14.1%</td>
+  <td width=72 style='width:54pt'>120289</td>
+  <td width=72 style='width:54pt'>85.9%</td>
+  <td colspan=2 width=144 style='width:108pt'>NA</td>
+ </tr>
+<tr height=18 style='height:13.5pt'>
+  <td height=18 width=97 style='height:13.5pt;width:73pt'>Not matched by any dataset</td>
+  <td width=72 style='width:54pt'>472</td>
+  <td width=72 style='width:54pt'>0.3%</td>
+ </tr>
  </table>
 
 <table>

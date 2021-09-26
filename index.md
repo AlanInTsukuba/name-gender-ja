@@ -283,21 +283,23 @@ The following table looks at consistency between datasets.
   <td rowspan=4 height=74 class=xl66 width=97 style='height:55.5pt;width:73pt'>Individually
   searched</td>
   <td>Female</td>
-  <td></td>
-  <td class=xl68 align=right>8809</td>
-  <td class=xl69>7019
+  <td class=xl68 align=right>
 </td>
-  <td class=xl69> 10.4%
-</td>
-  <td class=xl70> 96
-</td>
-  <td class=xl76 align=right style='border-left:none'>0.1%
-</td>
-  <td class=xl77 align=right>776
-</td>
-  <td class=xl77 align=right>1.2%
-</td>
-
+  <td class=xl69>7019</td>
+  <td class=xl69> 10.4%</td>
+  <td class=xl70> 96</td>
+  <td class=xl76 align=right style='border-left:none'>0.1%</td>
+  <td class=xl77 align=right>776</td>
+  <td class=xl77 align=right>1.2%</td>
+  </tr>
+  <td>Male</td>
+  <td class=xl68 align=right></td>
+  <td class=xl69>50</td>
+  <td class=xl69>0.1%</td>
+  <td class=xl70>57282</td>
+  <td class=xl76 align=right style='border-left:none'>84.9%</td>
+  <td class=xl77 align=right>1992</td>
+  <td class=xl77 align=right>3.0%</td>
   </tr>
 </table>
 <!--

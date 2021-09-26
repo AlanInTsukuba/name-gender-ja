@@ -268,17 +268,37 @@ The following table looks at consistency between datasets.
 <tr height=19 style='height:14.25pt'>
   <td height=19 style='height:14.25pt'></td>
   <td></td>
-  <td>Subtotal</td>
+  <td>Matches</td>
   <td colspan=2>Female</td>
   <td colspan=2>Male</td>
   <td colspan=2>Both</td>
-   <td>Subtotal</td>
+   <td>Matches</td>
   <td colspan=2>Female</td>
   <td colspan=2>Male</td>
-  <td>Subtotal</td>
+  <td>Matches</td>
   <td colspan=2>Female</td>
   <td colspan=2>Male</td>
  </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td rowspan=4 height=74 class=xl66 width=97 style='height:55.5pt;width:73pt'>Individually
+  searched</td>
+  <td>Female</td>
+  <td></td>
+  <td class=xl68 align=right>8809</td>
+  <td class=xl69>7019
+</td>
+  <td class=xl69> 10.4%
+</td>
+  <td class=xl70> 96
+</td>
+  <td class=xl76 align=right style='border-left:none'>0.1%
+</td>
+  <td class=xl77 align=right>776
+</td>
+  <td class=xl77 align=right>1.2%
+</td>
+
+  </tr>
 </table>
 <!--
 <table>

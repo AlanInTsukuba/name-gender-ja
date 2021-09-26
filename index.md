@@ -290,6 +290,16 @@ The following table looks at consistency between datasets.
   <td class=xl76 align=right style='border-left:none'></td>
   <td class=xl77 align=right></td>
   <td class=xl77 align=right></td>
+  <td class=xl68 align=right>66359</td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl68 align=right>83469</td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
   </tr>
  <tr height=19 style='height:14.25pt'>
   <td>Female</td>

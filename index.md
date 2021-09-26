@@ -17,6 +17,7 @@
         <li><a href="#GivenNamesGenderDataset">Gender-specific given names</a></li>
         <li><a href="#EndCharGenderDataset">Gender-specific end characters</a></li>
         </ul></li>
+    <li><a href="#CreatorNamesComparison">Applying datasets to creator names</a></li>
     <li><a href="#Notes">Notes</a></li>
     <li><a href="#References">References</a></li>
  </ul>
@@ -178,7 +179,7 @@ The same process for GivenNameGender.csv was followed except for further aggrega
 </tbody>
 </table>
 
-### <a id="CreatorNamesComparison">Applying data sets to creator names</a>
+## <a id="CreatorNamesComparison">Applying datasets to creator names</a>
 
 To compare gender assignments using the 4 datasets above, I applied them to the names of creators listed on Japanese designs registered between 2000 and 2018. The creators were restricted to those with Japanese addresses and those designs applied for directly at the Japanese patent office. This excludes creators with Japanese addresses whose registrations were applied for via the Hague Convention.
 <table>
@@ -242,6 +243,38 @@ To compare gender assignments using the 4 datasets above, I applied them to the 
  </tr>
  </table>
 
+The following table looks at consistency between datasets.
+
+<table>
+<caption><b>Agreement between datasets</b></caption>
+<tr height=18 style='height:13.5pt'>
+  <td height=18 width=97 style='height:13.5pt;width:73pt'></td>
+  <td width=93 style='width:70pt'></td>
+  <td colspan=2 width=144 style='width:108pt'></td>
+  <td colspan=2 width=144 style='width:108pt'></td>
+  <td colspan=2 width=144 style='width:108pt'></td>
+  <td colspan=2 width=144 style='width:108pt'></td>
+  <td colspan=2 width=144 style='width:108pt'></td>
+  <td colspan=6 class=xl65 width=432 style='width:324pt'>Marathon rosters</td>
+  <td width=99 style='width:74pt'></td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 style='height:14.25pt'></td>
+  <td></td>
+  <td colspan=2 width=144 style='width:108pt'>Female</td>
+  <td colspan=2 width=144 style='width:108pt'>Male</td>
+  <td colspan=2 width=144 style='width:108pt'>Both</td>
+  <td>Subtotal</td>
+  <td colspan=2 width=144 style='width:108pt'>Female</td>
+  <td colspan=2 width=144 style='width:108pt'>Male</td>
+  <td>Subtotal</td>
+  <td colspan=2 width=144 style='width:108pt'>Female</td>
+  <td colspan=2 width=144 style='width:108pt'>Male</td>
+  <td>Subtotal</td>
+  <td></td>
+ </tr>
+</table>
+<!--
 <table>
 <caption><b>Datasets applied to creators creators listed on Japanese designs registered between 2000 and 2018</b></caption>
 <tr height=18 style='height:13.5pt'>
@@ -503,6 +536,7 @@ To compare gender assignments using the 4 datasets above, I applied them to the 
   <td height=19 colspan=18 style='height:14.25pt;mso-ignore:colspan'></td>
  </tr>
 </table>
+-->
 
 ## <a id="Notes">Notes</a>
 

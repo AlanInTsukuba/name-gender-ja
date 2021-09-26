@@ -280,7 +280,7 @@ The following table looks at consistency between datasets.
   <td colspan=2>Male</td>
  </tr>
  <tr height=19 style='height:14.25pt'>
-  <td rowspan=5 height=74 class=xl66 width=97 style='height:55.5pt;width:73pt'>Individually
+  <td rowspan=4 height=74 class=xl66 width=97 style='height:55.5pt;width:73pt'>Individually
   searched</td>
   <td>Matches</td>
   <td class=xl68 align=right>67470</td>

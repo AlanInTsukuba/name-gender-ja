@@ -259,7 +259,7 @@ The following table looks at consistency between datasets.
   <td colspan=6 class=xl65 width=432 style='width:324pt'>Marathon rosters</td>
  </tr>
    <tr height=25 style='height:18.75pt'>
-  <td height=25 style='height:18.75pt'></td>
+  <td colspan=2 height=25 style='height:18.75pt'></td>
   <td colspan=7 class=xl66 width=288 style='width:216pt'>Japanese celebrities
   (Wikipedia)</td>
   <td colspan=5 class=xl66 width=216 style='width:162pt'>Given names</td>
@@ -280,8 +280,18 @@ The following table looks at consistency between datasets.
   <td colspan=2>Male</td>
  </tr>
  <tr height=19 style='height:14.25pt'>
-  <td rowspan=4 height=74 class=xl66 width=97 style='height:55.5pt;width:73pt'>Individually
+  <td rowspan=5 height=74 class=xl66 width=97 style='height:55.5pt;width:73pt'>Individually
   searched</td>
+  <td>Matches</td>
+  <td class=xl68 align=right>67470</td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl70></td>
+  <td class=xl76 align=right style='border-left:none'></td>
+  <td class=xl77 align=right></td>
+  <td class=xl77 align=right></td>
+  </tr>
+ <tr height=19 style='height:14.25pt'>
   <td>Female</td>
   <td class=xl68 align=right>
 </td>
@@ -292,6 +302,7 @@ The following table looks at consistency between datasets.
   <td class=xl77 align=right>776</td>
   <td class=xl77 align=right>1.2%</td>
   </tr>
+<tr height=19 style='height:14.25pt'>
   <td>Male</td>
   <td class=xl68 align=right></td>
   <td class=xl69>50</td>
@@ -300,6 +311,16 @@ The following table looks at consistency between datasets.
   <td class=xl76 align=right style='border-left:none'>84.9%</td>
   <td class=xl77 align=right>1992</td>
   <td class=xl77 align=right>3.0%</td>
+  </tr>
+<tr height=19 style='height:14.25pt'>
+  <td>Both</td>
+  <td class=xl68 align=right></td>
+  <td class=xl69>73</td>
+  <td class=xl69>0.1%</td>
+  <td class=xl70>50</td>
+  <td class=xl76 align=right style='border-left:none'>0.1%</td>
+  <td class=xl77 align=right>132</td>
+  <td class=xl77 align=right>0.2%</td>
   </tr>
 </table>
 <!--

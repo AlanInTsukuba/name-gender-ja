@@ -185,7 +185,7 @@ To compare gender assignments using the 4 datasets above, I applied them to the 
 <caption><b>Gender matches between datasets and set of 145689 creator names</b></caption>
 <tr height=18 style='height:13.5pt'>
   <td height=18 width=97 style='height:13.5pt;width:73pt'></td>
-  <td colspan=2 width=144 style='width:108pt'>Matches</td>
+  <td colspan=2 width=144 style='width:108pt'>Matches vs name set</td>
   <td colspan=2 width=144 style='width:108pt'>Female</td>
   <td colspan=2 width=144 style='width:108pt'>Male</td>
   <td colspan=2 width=144 style='width:108pt'>Both</td>

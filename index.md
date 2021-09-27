@@ -243,7 +243,7 @@ To compare gender assignments using the 4 datasets above, I applied them to the 
  </tr>
  </table>
 
-The following table looks at consistency between datasets.
+The following table looks at consistency between datasets when they are used to code genders for the creator names. Looking at the individually searched and Japanese celebrities datasets, we see that they both code gender for 67470 of the 145689 creator names. 7019 (10.4%) are coded female and 57282 (84.9%) are coded male for both datasets. 146 (0.2%) code for the opposite binary gender. 123 (0.2%) code for both genders by the individually searched dataset and single genders by the celebrity dataset. In contrast, 2748 (4.1%) code for single genders in the former dataset and for both genders in the latter dataset. If we use the 3013 (4.5%) names that code both for either dataset as a range, we get between 10.4 and 14.9% female names and between 84.9 and 89.4% male names for this intersection.
 
 <table>
 <caption><b>Agreement between datasets</b></caption>

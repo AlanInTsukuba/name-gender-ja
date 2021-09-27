@@ -151,6 +151,8 @@ TBA
 
 Runner lists were obtained from nine geographically separated marathons. Cleaned of foreign names entered in either roman characters or katakana, these lists yielded 96,087 surname-given name-gender tuples, which were uniqued to produce 88,079 tuples. Uniquing makes the operating assumption that each unique tuple corresponds to a single runner who ran in multiple marathons. Women made up 21.2% of the list. This list was aggregated on given name to give counts of surnames, women and men for each given name. Using a threshold surname count of 23 (expectation value of 5 / share of women), Chi-square good-of-fit tests were run for names with surname counts greater than the threshold and Fisher exact test were run for names with surname counts greater than or equal to 2 and less than or equal to the threshold. With a female expectation share of 0.211889 and p-value cutoff of 0.05, this yielded the 2744 gender-specific (1718 female, 1026 male) given names in GivenNameGender.csv.
 
+Version 2: Names with both female and male instances but with p-value over cutoff were designated as "both" and added to GivenNameGenderV2.csv. This yielded 2954 (1718 female, 1026 male, 210 both) gender-coded names.
+
 <table>
 <caption><b>Sample rows from GivenNameGender.csv</b></caption>
 <thead><tr><th>GivenName</th><th>SurnameCount</th>
@@ -166,6 +168,8 @@ Runner lists were obtained from nine geographically separated marathons. Cleaned
 ### <a id="EndCharGenderDataset">Gender-specific end characters</a>
 
 The same process for GivenNameGender.csv was followed except for further aggregating the given name aggregate list on the given names' end characters. With a female expectation share of 0.211889 and p-value cutoff of 0.05, this yielded the 445 gender-specific (185 female, 260 male) end characters in EndCharGender.csv.
+
+Version 2: Names with both female and male instances but with p-value over cutoff were designated as "both" and added to GivenNameGenderV2.csv. This yielded 572 (185 female, 260 male, 127 both) gender-coded end characters.
 
 <table>
 <caption><b>Sample rows from EndCharGender.csv</b></caption>

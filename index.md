@@ -249,7 +249,7 @@ To compare gender assignments using the 4 datasets above, I applied them to the 
  </tr>
  </table>
 
-The following table looks at consistency between datasets when they are used to code genders for the creator names. Looking at the individually searched and Japanese celebrities datasets, we see that they both code gender for 67470 of the 145689 creator names. 7019 (10.4%) are coded female and 57282 (84.9%) are coded male for both datasets. 146 (0.2%) code for the opposite binary gender. 123 (0.2%) code for both genders by the individually searched dataset and single genders by the celebrity dataset. In contrast, 2748 (4.1%) code for single genders in the former dataset and for both genders in the latter dataset. If we use the 3013 (4.5%) names that code both for either dataset as a range, we get between 10.4 and 14.9% female names and between 84.9 and 89.4% male names for this intersection.
+The following table looks at consistency between datasets when they are used to code genders for the creator names. Looking at the individually searched and Japanese celebrities datasets, we see that they both code gender for 67470 of the 145858 creator names. 7019 (10.4%) are coded female and 57282 (84.9%) are coded male for both datasets. 146 (0.2%) code for the opposite binary gender. 123 (0.2%) code for both genders by the individually searched dataset and single genders by the celebrity dataset. In contrast, 2748 (4.1%) code for single genders in the former dataset and for both genders in the latter dataset. If we use the 3013 (4.5%) names that code both for either dataset as a range, we get between 10.4 and 14.9% female names and between 84.9 and 89.4% male names for this intersection.
 
 <table>
 <caption><b>Agreement between datasets</b></caption>
@@ -290,18 +290,18 @@ The following table looks at consistency between datasets when they are used to 
   searched</td>
   <td>Shared matches</td>
   <td class=xl68 align=right>67470</td>
-  <td class=xl69></td>
-  <td class=xl69></td>
-  <td class=xl70></td>
+  <td class=xl69 align=right></td>
+  <td class=xl69 align=right></td>
+  <td class=xl70 align=right></td>
   <td class=xl76 align=right style='border-left:none'></td>
   <td class=xl77 align=right></td>
   <td class=xl77 align=right></td>
-  <td class=xl68 align=right>66359</td>
+  <td class=xl68 align=right>67188</td>
+  <td class=xl69 align=right></td>
+  <td class=xl69 align=right></td>
   <td class=xl69></td>
   <td class=xl69></td>
-  <td class=xl69></td>
-  <td class=xl69></td>
-  <td class=xl68 align=right>83469</td>
+  <td class=xl68 align=right>85626</td>
   <td class=xl69></td>
   <td class=xl69></td>
   <td class=xl69></td>
@@ -309,51 +309,60 @@ The following table looks at consistency between datasets when they are used to 
   </tr>
  <tr height=19 style='height:14.25pt'>
   <td>Female</td>
-  <td class=xl68 align=right>
+  <td class=xl68 align=right></td>
+  <td class=xl69 align=right>7019</td>
+  <td class=xl69 align=right> 10.4%</td>
+  <td class=xl70 align=right> 96</td>
+  <td class=xl76 align=right >0.1%</td>
+  <td class=xl77 align=right>73
 </td>
-  <td class=xl69>7019</td>
-  <td class=xl69> 10.4%</td>
-  <td class=xl70> 96</td>
-  <td class=xl76 align=right style='border-left:none'>0.1%</td>
-  <td class=xl77 align=right>776</td>
-  <td class=xl77 align=right>1.2%</td>
+  <td class=xl77 align=right>0.1%
+</td>
   <td class=xl68 align=right></td>
-  <td class=xl69>8031</td>
-  <td class=xl69>12.1%</td>
-  <td class=xl69>0</td>
-  <td class=xl69>0.0%</td>
+  <td class=xl69 align=right>8031</td>
+  <td class=xl69 align=right>12.0%</td>
+  <td class=xl69 align=right>0</td>
+  <td class=xl69 align=right>0.0%</td>
+  <td class=xl69 align=right>204</td>
+  <td class=xl69 align=right>0.3%</td>
   <td class=xl68 align=right></td>
-  <td class=xl69>7985</td>
-  <td class=xl69>9.6%</td>
-  <td class=xl69>363</td>
-  <td class=xl69>0.4%</td>
+  <td class=xl69 align=right>7985</td>
+  <td class=xl69 align=right>9.3%</td>
+  <td class=xl69 align=right>363</td>
+  <td class=xl69 align=right>0.4%</td>
+  <td class=xl69 align=right>312</td>
+  <td class=xl69 align=right>0.4%</td>
   </tr>
 <tr height=19 style='height:14.25pt'>
   <td>Male</td>
   <td class=xl68 align=right></td>
-  <td class=xl69>50</td>
-  <td class=xl69>0.1%</td>
-  <td class=xl70>57282</td>
+  <td class=xl69 align=right>50</td>
+  <td class=xl69 align=right>0.1%</td>
+  <td class=xl70 align=right>57282</td>
   <td class=xl76 align=right style='border-left:none'>84.9%</td>
   <td class=xl77 align=right>1992</td>
   <td class=xl77 align=right>3.0%</td>
   <td class=xl68 align=right></td>
-  <td class=xl69>163</td>
-  <td class=xl69>0.2%</td>
-  <td class=xl69>58011</td>
-  <td class=xl69>87.4%</td>
+  <td class=xl69 align=right>163</td>
+  <td class=xl69 align=right>0.2%</td>
+  <td class=xl69 align=right>58011</td>
+  <td class=xl69 align=right>86.3%</td>
+  <td class=xl69 align=right>475</td>
+  <td class=xl69 align=right>0.7%</td>
   <td class=xl68 align=right></td>
-  <td class=xl69>1571</td>
-  <td class=xl69>1.9%</td>
-  <td class=xl69>73161</td>
-  <td class=xl69>87.7%</td>
+  <td class=xl69 align=right>1571</td>
+  <td class=xl69 align=right>1.8%</td>
+  <td class=xl69 align=right>73161</td>
+  <td class=xl69 align=right>85.4%</td>
+  <td class=xl69 align=right>1746</td>
+  <td class=xl69 align=right>2.0%</td>
   </tr>
 <tr height=19 style='height:14.25pt'>
   <td>Both</td>
   <td class=xl68 align=right></td>
-  <td class=xl69>73</td>
-  <td class=xl69>0.1%</td>
-  <td class=xl70>50</td>
+  <td class=xl69 align=right>73</td>
+  <td class=xl69 align=right>0.1%</td>
+  <td class=xl70 align=right>50</td>
   <td class=xl76 align=right style='border-left:none'>0.1%</td>
   <td class=xl77 align=right>132</td>
   <td class=xl77 align=right>0.2%</td>
@@ -362,11 +371,15 @@ The following table looks at consistency between datasets when they are used to 
   <td class=xl69>0.2%</td>
   <td class=xl69>45</td>
   <td class=xl69>0.1%</td>
+  <td class=xl69>150</td>
+  <td class=xl69>0.2%</td>
   <td class=xl68 align=right></td>
   <td class=xl69>262</td>
   <td class=xl69>0.3%</td>
   <td class=xl69>127</td>
-  <td class=xl69>0.2%</td>
+  <td class=xl69>0.1%</td>
+  <td class=xl69>114</td>
+  <td class=xl69>0.1%</td>
   </tr>
 
 <tr height=19 style='height:14.25pt'>
@@ -379,12 +392,12 @@ The following table looks at consistency between datasets when they are used to 
   <td class=xl76 align=right style='border-left:none'></td>
   <td class=xl77 align=right></td>
   <td class=xl77 align=right></td>
-  <td class=xl68 align=right>68826</td>
+  <td class=xl68 align=right>70039</td>
   <td class=xl69></td>
   <td class=xl69></td>
   <td class=xl69></td>
   <td class=xl69></td>
-  <td class=xl68 align=right>83915</td>
+  <td class=xl68 align=right>84906</td>
   <td class=xl69></td>
   <td class=xl69></td>
   <td class=xl69></td>
@@ -401,15 +414,19 @@ The following table looks at consistency between datasets when they are used to 
   <td class=xl77 align=right></td>
   <td class=xl77 align=right></td>
   <td class=xl68 align=right></td>
-  <td class=xl69>10562</td>
-  <td class=xl69>15.3%</td>
-  <td class=xl69>0</td>
-  <td class=xl69>0.0%</td>
+  <td class=xl69 align=right>10562</td>
+  <td class=xl69 align=right>15.1%</td>
+  <td class=xl69 align=right>0</td>
+  <td class=xl69 align=right>0.0%</td>
+  <td class=xl69 align=right>163</td>
+  <td class=xl69 align=right>0.2%</td>
   <td class=xl68 align=right></td>
-  <td class=xl69>10853</td>
-  <td class=xl69>12.9%</td>
-  <td class=xl69>411</td>
-  <td class=xl69>0.5%</td>
+  <td class=xl69 align=right>10853</td>
+  <td class=xl69 align=right>12.8%</td>
+  <td class=xl69 align=right>411</td>
+  <td class=xl69 align=right>0.5%</td>
+  <td class=xl69 align=right>149</td>
+  <td class=xl69 align=right>0.2%</td>
   </tr>
 <tr height=19 style='height:14.25pt'>
   <td>Male</td>
@@ -421,15 +438,19 @@ The following table looks at consistency between datasets when they are used to 
   <td class=xl77 align=right></td>
   <td class=xl77 align=right></td>
   <td class=xl68 align=right></td>
-  <td class=xl69>144</td>
-  <td class=xl69>0.2%</td>
-  <td class=xl69>55482</td>
-  <td class=xl69>80.6%</td>
+  <td class=xl69 align=right>144</td>
+  <td class=xl69 align=right>0.2%</td>
+  <td class=xl69 align=right>55482</td>
+  <td class=xl69 align=right>79.2%</td>
+  <td class=xl69 align=right>448</td>
+  <td class=xl69 align=right>0.6%</td>
   <td class=xl68 align=right></td>
-  <td class=xl69>981</td>
-  <td class=xl69>1.2%</td>
-  <td class=xl69>68736</td>
-  <td class=xl69>81.9%</td>
+  <td class=xl69 align=right>981</td>
+  <td class=xl69 align=right>1.2%</td>
+  <td class=xl69 align=right>68736</td>
+  <td class=xl69 align=right>81.0%</td>
+  <td class=xl69 align=right>504</td>
+  <td class=xl69 align=right>0.6%</td>
   </tr>
 <tr height=19 style='height:14.25pt'>
   <td>Both</td>
@@ -445,15 +466,19 @@ The following table looks at consistency between datasets when they are used to 
   <td class=xl69>1.3%</td>
   <td class=xl69>1720</td>
   <td class=xl69>2.5%</td>
+  <td class=xl69>602</td>
+  <td class=xl69>0.9%</td>
   <td class=xl68 align=right></td>
   <td class=xl69>1124</td>
   <td class=xl69>1.3%</td>
   <td class=xl69>1810</td>
-  <td class=xl69>2.2%</td>
+  <td class=xl69>2.1%</td>
+  <td class=xl69>360</td>
+  <td class=xl69>0.4%</td>
   </tr>
 
 <tr height=19 style='height:14.25pt'>
-  <td rowspan=3 height=74 class=xl66 width=97 style='height:55.5pt;width:73pt'>Marathon rosters (given names)</td>
+  <td rowspan=4 height=74 class=xl66 width=97 style='height:55.5pt;width:73pt'>Marathon rosters (given names)</td>
   <td>Shared matches</td>
   <td class=xl68 align=right></td>
   <td class=xl69></td>
@@ -467,7 +492,11 @@ The following table looks at consistency between datasets when they are used to 
   <td class=xl69></td>
   <td class=xl69></td>
   <td class=xl69></td>
-  <td class=xl68 align=right>77651</td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl68 align=right>79602</td>
+  <td class=xl69></td>
+  <td class=xl69></td>
   <td class=xl69></td>
   <td class=xl69></td>
   <td class=xl69></td>
@@ -488,11 +517,15 @@ The following table looks at consistency between datasets when they are used to 
   <td class=xl69></td>
   <td class=xl69></td>
   <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
   <td class=xl68 align=right></td>
-  <td class=xl69>12848</td>
-  <td class=xl69>16.5%</td>
-  <td class=xl69>306</td>
-  <td class=xl69>0.4%</td>
+  <td class=xl69 align=right>12848</td>
+  <td class=xl69 align=right>16.1%</td>
+  <td class=xl69 align=right>306</td>
+  <td class=xl69 align=right>0.4%</td>
+  <td class=xl69 align=right>144</td>
+  <td class=xl69 align=right>0.2%</td>
   </tr>
 <tr height=19 style='height:14.25pt'>
   <td>Male</td>
@@ -508,11 +541,39 @@ The following table looks at consistency between datasets when they are used to 
   <td class=xl69></td>
   <td class=xl69></td>
   <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
   <td class=xl68 align=right></td>
-  <td class=xl69>604</td>
-  <td class=xl69>0.8%</td>
-  <td class=xl69>63893</td>
-  <td class=xl69>82.3%</td>
+  <td class=xl69 align=right>604</td>
+  <td class=xl69 align=right>0.8%</td>
+  <td class=xl69 align=right>63893</td>
+  <td class=xl69 align=right>80.3%</td>
+  <td class=xl69 align=right>182</td>
+  <td class=xl69 align=right>0.2%</td>
+  </tr>
+<tr height=19 style='height:14.25pt'>
+  <td>Both</td>
+  <td class=xl68 align=right></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl70></td>
+  <td class=xl76 align=right style='border-left:none'></td>
+  <td class=xl77 align=right></td>
+  <td class=xl77 align=right></td>
+  <td class=xl68 align=right></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl68 align=right></td>
+  <td class=xl69 align=right>569</td>
+  <td class=xl69 align=right>0.7%</td>
+  <td class=xl69 align=right>638</td>
+  <td class=xl69 align=right>0.8%</td>
+  <td class=xl69 align=right>436</td>
+  <td class=xl69 align=right>0.5%</td>
   </tr>
 </table>
 <!--

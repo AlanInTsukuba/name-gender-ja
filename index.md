@@ -581,6 +581,16 @@ The following table looks at consistency between datasets when they are used to 
   </tr>
 </table>
 
+<table>
+<caption><b>Sums of off-diagonal elements</b></caption>
+<tr><td>Datasets</td><td>Female-male</td><td>All</td></tr>
+<tr><td>Individually searched vs celebrities</td><td>0.2%</td><td>3.5%</td></tr>
+<tr><td>Individually searched vs roster given names</td><td>0.2%</td><td>1.5%</td></tr>
+<tr><td>Individually searched vs roster end characters</td><td>2.2%</td><td>5.0%</td></tr>
+<tr><td>Celebrities vs roster given names</td><td>0.2%</td><td>4.8%</td></tr>
+<tr><td>Celebrities vs roster end characters</td><td>1.7%</td><td>5.9%</td></tr>
+<tr><td>Roster given names vs roster end characters</td><td>1.2%</td><td>3.1%</td></tr>
+</table>
 
 ## <a id="Notes">Notes</a>
 

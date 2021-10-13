@@ -143,7 +143,7 @@ TBA
 </tbody>
 </table>
 
-Examiners' and agents' names were all individually searched before the celebrities and marathon roster datasets were created. Creator names, in contrast, were in part individually searched after the latter datasets were added. Individual searches for creator names focused on names NOT found in these datasets or in earlier individual searches. This means that gender or age based skews in the celebrity and marathon rosters relative to the creator name set may induce counter skews in the individually searched dataset. For example, <a href="#Kawagishi2013">Kawagishi and Katsumi (2013)</a> as well as Baresova (<a href="#Baresova2020">2020</a> and <a href="#Baresova2021">2021</a>) observe rather sharp changes in naming customs in Japan since the 1970s. Also, when searching individual names, I observed that names of creators of designs in the early 2000s could often be found in golf or tennis tournament rosters but not in marathon rosters. Those in the mid 2010s, on the other hand, were more often found in marathon rosters, which is how I learned of the rosters used for datasets. 
+Examiners' and agents' names were all individually searched before the celebrities and marathon roster datasets were created. Creator names, in contrast, were in part individually searched after the latter datasets were added. Individual searches for creator names focused on names NOT found in these datasets or in earlier individual searches. This means that gender or age based skews in the celebrity and marathon rosters relative to the creator name set may induce counter skews in the individually searched dataset. For example, <a href="#Kawagishi2013">Kawagishi and Katsumi (2013)</a> as well as Baresova (<a href="#Baresova2020">2020</a> and <a href="#Baresova2021">2021</a>) observe rather sharp changes in naming customs in Japan since the 1970s. Also, when searching individual names, I observed that names of creators of designs in the early 2000s could often be found in golf or tennis tournament rosters but not in marathon rosters. Those in the mid 2010s, on the other hand, were more often found in marathon rosters, which is how I learned of the rosters used for the datasets here. 
 
 ### <a id="JapaneseCelebs">Japanese celebrities</a>
 
@@ -264,14 +264,14 @@ The following table looks at consistency between datasets when they are used to 
   <td width=72 style='width:54pt'></td>
   <td colspan=2 width=144 style='width:108pt'></td>
   <td colspan=2 width=144 style='width:108pt'></td>
-  <td colspan=6 class=xl65 width=432 style='width:324pt'>Marathon rosters</td>
+  <td colspan=10 class=xl65 width=432 style='width:324pt'>Marathon rosters</td>
  </tr>
    <tr height=25 style='height:18.75pt'>
   <td colspan=2 height=25 style='height:18.75pt'></td>
   <td colspan=7 class=xl66 width=288 style='width:216pt'>Japanese celebrities
   (Wikipedia)</td>
-  <td colspan=5 class=xl66 width=216 style='width:162pt'>Given names</td>
-  <td colspan=5 class=xl66 width=216 style='width:162pt'>End characters</td>
+  <td colspan=7 class=xl66 width=216 style='width:162pt'>Given names</td>
+  <td colspan=7 class=xl66 width=216 style='width:162pt'>End characters</td>
  </tr>
 <tr height=19 style='height:14.25pt'>
   <td height=19 style='height:14.25pt'></td>
@@ -283,9 +283,11 @@ The following table looks at consistency between datasets when they are used to 
    <td>Shared matches</td>
   <td colspan=2>Female</td>
   <td colspan=2>Male</td>
+  <td colspan=2>Both</td>
   <td>Shared matches</td>
   <td colspan=2>Female</td>
   <td colspan=2>Male</td>
+  <td colspan=2>Both</td>
  </tr>
  <tr height=19 style='height:14.25pt'>
   <td rowspan=4 height=74 class=xl66 width=97 style='height:55.5pt;width:73pt'>Individually

@@ -131,20 +131,21 @@ TBA
 
 ### <a id="DataEntryHistory">Data entry history</a>
 
-Building the datasets was itself a learning and development process. I began by individually searching given names for examiners and agents listed on Japanese registered designs published between 2000 and 2018. I entered binary genders as described in the <a href="#Ethics">ethics and privacy</a> section above. During these searches, I learned of the Japanese celebrity categories on Wikipedia and developed scraper software for names and genders found there. 
+Building the datasets was itself a learning and development process. I began by individually searching given names for examiners and agents listed on Japanese registered designs published between 2000 and 2018. I entered binary genders as described in the <a href="#Ethics">ethics and privacy</a> section above. For each given name, I entered one observation for each gender observed without attempting to statistical sample them. For example, if there were four male and one female observations for a name, I entered one male name-gender tuple and one female name-gender tuple. 
 
 <table>
 <caption><b>Order in which names were searched and entered into database</b></caption>
 <tr><th>Task</th><th>Names searched and entered</th></tr>
 <tr><td>Individual searches of given names of examiners and agents</td><td>4038</td></tr>
 <tr><td>Japanese celebrities on Wikipedia</td><td>12397</td></tr>
-<tr><td>Individual searches of given names of creators <i>not previously found</i></td><td>2311</td></tr>
-<tr><td>Runners in 2019 Osaka Marathon*</td><td>6731</td></tr>
+<tr><td>Individual searches of given names of creators* <i>not previously found</i></td><td>2311</td></tr>
+<tr><td>Runners in 2019 Osaka Marathon**</td><td>6731</td></tr>
 <tr><td>Individual searches of given names of creators <i>not previously found</i></td><td>2518</td></tr>
 <tr><td>Runners in 9 marathons including 2019 Osaka</td><td>96737</td></tr>
 <tr><td colspan=2>At this point, I developed gender-specific given name and end character lists based on the aggregated marathon rosters.</td></tr>
 <tr><td>Individual searches of given names of creators <i>not previously found or resolved</i></td><td>302</td></tr>
-<tr><td colspan=2>*Noted here because it affected which creators' given names were searched next.</td></tr>
+<tr><td colspan=2>*Restricted to creators with Japanese addresses.</td></tr>
+<tr><td colspan=2>**Noted here because it affected which creators' given names were searched next.</td></tr>
 </table>
 
 ### <a id="IndividualSearches">Individually searched given names (not released)</a>
@@ -601,6 +602,10 @@ The following table looks at consistency between datasets when they are used to 
   </tr>
 </table>
 
+### <a id="DatasetPrecedence">Selecting gender codes using precedence</a>
+
+
+
 <table>
 <caption><b>Sums of off-diagonal elements</b></caption>
 <tr><td>Datasets</td><td>Female-male</td><td>All</td></tr>
@@ -616,7 +621,6 @@ The following table looks at consistency between datasets when they are used to 
 
 ### <a id="AgeDependency">Age dependent mismatch and skew</a>
 ### <a id="IntraAsianConsistency">Gender specificity across Asian boundaries</a>
-### <a id="ZainichiKoreans">Possibility of studying designers having Korean-Japanese dual citizenship as a subgroup</a>
 ### <a id="CelebrityDesigners">Celebrity foreign designers</a>
 
 ## <a id="Notes">Notes</a>

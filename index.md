@@ -614,6 +614,11 @@ The following table looks at consistency between datasets when they are used to 
 
 ## <a id="LimitationsFurtherResearch">Limitations and topics for further research</a>
 
+### <a id="AgeDependency">Age dependent mismatch and skew</a>
+### <a id="IntraAsianConsistency">Gender specificity across Asian boundaries</a>
+### <a id="ZainichiKoreans">Possibility of studying designers having Korean-Japanese dual citizenship as a subgroup</a>
+### <a id="CelebrityDesigners">Celebrity foreign designers</a>
+
 ## <a id="Notes">Notes</a>
 
 <a id="MeijiyasudaReadingsGirls2020" href="https://www.meijiyasuda.co.jp/enjoy/ranking/read_best10/girl.html">名前ベスト10の読み方、女の子 [Readings of the top 10 names, girls]</a>[accessed 21 August 2021]

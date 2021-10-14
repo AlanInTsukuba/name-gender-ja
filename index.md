@@ -131,6 +131,8 @@ TBA
 
 ### <a id="DataEntryHistory">Data entry history</a>
 
+Building the datasets was itself a learning and development process. I began by individually searching given names for examiners and agents listed on Japanese registered designs published between 2000 and 2018. I entered binary genders as described in the <a href="#Ethics">ethics and privacy</a> section above. During these searches, I learned of the Japanese celebrity categories on Wikipedia and developed scraper software for names and genders found there. 
+
 <table>
 <caption><b>Order in which names were searched and entered into database</b></caption>
 <tr><th>Task</th><th>Names searched and entered</th></tr>

@@ -617,6 +617,15 @@ The following table looks at consistency between datasets when they are used to 
 <tr><td>Roster given names vs roster end characters</td><td>1.2%</td><td>3.1%</td></tr>
 </table>
 
+#### Precedence scheme 1
+
+m/f specific (IND > MGN > CEL) > both (IND > MGN > CEL) > MEC
+
+#### Precedence scheme 2
+
+both (IND > MGN > CEL) > m/f specific (IND > MGN > CEL) > MEC 
+
+
 ## <a id="LimitationsFurtherResearch">Limitations and topics for further research</a>
 
 ### <a id="AgeDependency">Age dependent mismatch and skew</a>

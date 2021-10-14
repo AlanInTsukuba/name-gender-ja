@@ -12,12 +12,14 @@
         <li><a href="#GenderAttributionEastAsian">Gender attribution for East Asian names</a></li></ul></li>
     <li><a href="#Datasets">Datasets</a>
         <ul>
+        <li><a href="#DataEntryHistory">Data entry history</a></li>
         <li><a href="#IndividualSearches">Individually searched given names (not released)</a></li>
         <li><a href="#JapaneseCelebs">Japanese celebrities</a></li>
         <li><a href="#GivenNamesGenderDataset">Gender-specific given names</a></li>
         <li><a href="#EndCharGenderDataset">Gender-specific end characters</a></li>
         </ul></li>
     <li><a href="#CreatorNamesComparison">Applying datasets to creator names</a></li>
+    <li><a href="#LimitationsFurtherResearch">Limitations and topics for further research</a></li>
     <li><a href="#Notes">Notes</a></li>
     <li><a href="#References">References</a></li>
  </ul>
@@ -126,6 +128,22 @@ TBA
 TBA
 
 ## <a id="Datasets">Datasets</a>
+
+### <a id="DataEntryHistory">Data entry history</a>
+
+<table>
+<caption><b>Order in which names were searched and entered into database</b></caption>
+<tr><th>Task</th><th>Names searched and entered</th></tr>
+<tr><td>Individual searches of given names of examiners and agents</td><td>4038</td></tr>
+<tr><td>Japanese celebrities on Wikipedia</td><td>12397</td></tr>
+<tr><td>Individual searches of given names of creators <i>not previously found</i></td><td>2311</td></tr>
+<tr><td>Runners in 2019 Osaka Marathon*</td><td>6731</td></tr>
+<tr><td>Individual searches of given names of creators <i>not previously found</i></td><td>2518</td></tr>
+<tr><td>Runners in 9 marathons including 2019 Osaka</td><td>96737</td></tr>
+<tr><td colspan=2>At this point, I developed gender-specific given name and end character lists based on the aggregated marathon rosters.</td></tr>
+<tr><td>Individual searches of given names of creators <i>not previously found or resolved</i></td><td>302</td></tr>
+<tr><td colspan=2>*Noted here because it affected which creators' given names were searched next.</td></tr>
+</table>
 
 ### <a id="IndividualSearches">Individually searched given names (not released)</a>
 
@@ -592,6 +610,8 @@ The following table looks at consistency between datasets when they are used to 
 <tr><td>Roster given names vs roster end characters</td><td>1.2%</td><td>3.1%</td></tr>
 </table>
 
+## <a id="LimitationsFurtherResearch">Limitations and topics for further research</a>
+
 ## <a id="Notes">Notes</a>
 
 <a id="MeijiyasudaReadingsGirls2020" href="https://www.meijiyasuda.co.jp/enjoy/ranking/read_best10/girl.html">名前ベスト10の読み方、女の子 [Readings of the top 10 names, girls]</a>[accessed 21 August 2021]
@@ -616,11 +636,11 @@ The following table looks at consistency between datasets when they are used to 
 
 <a id="JensenKovacsSorenson2018">Jensen, Kyle, Balázs Kovács, and Olav Sorenson (2018)</a> "Gender Differences in Obtaining and Maintaining Patent Rights." Nature Biotechnology, vol. 36, no. 4, 2018, pp. 307-309. [accessed 9 December 2020] https://www-proquest-com.ezproxy.tulips.tsukuba.ac.jp/docview/2021770129?pq-origsite=summon
 
-<a id="LariviereEtal2013">Larivière, Vincent, Chaoqun Ni, Blaise Cronin, and Cassidy R. Sugimoto (2013).</a> "Global Gender Disparities in Science." Nature (London), 504(7479), pp. 211-213, doi:10.1038/504211a. Supplementary information.
-
 <a id="Kawagishi2013">Kawagishi, Katsumi (2013)</a> Changes in the use of Kanji for names and the motivation behind such change (in Japanese). Journal of Yasuda Women's University, 41, 1-14, 2013. [accessed 20 August 2021] https://yasuda-u.repo.nii.ac.jp/?action=repository_uri&item_id=97
 
 <a id="KnowlesEtal2016">Knowles, Rebecca, Josh Carroll, Mark Dredze (2016)</a>. Demographer: Extremely simple name demographics. Proceedings of 2016 EMNLP Workshop on Natural Language Processing and Computational Social Science. Association for Computational Linguistics. November 2016. pp 108-113. [accessed 28 August 2021] https://doi.org/10.18653/v1/W16-5614
+
+<a id="LariviereEtal2013">Larivière, Vincent, Chaoqun Ni, Blaise Cronin, and Cassidy R. Sugimoto (2013).</a> "Global Gender Disparities in Science." Nature (London), 504(7479), pp. 211-213, doi:10.1038/504211a. Supplementary information.
 
 <a id="MartinezEtal2016">Martinez, Gema Lax, Julio Raffo, Kaori Saito (2016)</a> Identifying the gender of PCT inventors. Economic Research Working Paper No. 33. World Intelectual Property Organization. [accessed 19 August 2021] https://www.wipo.int/publications/en/details.jsp?id=4125&plang=EN
 

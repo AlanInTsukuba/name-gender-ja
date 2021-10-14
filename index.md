@@ -148,7 +148,7 @@ Building the datasets was itself a learning and development process. I began by 
 <tr><td colspan=2>**Noted here because it affected which creators' given names were searched next.</td></tr>
 </table>
 
-### <a id="IndividualSearches">Individually searched given names (not released)</a>
+### <a id="IndividualSearches">Individually searched given names (IND) (not released)</a>
 
 <table>
 <caption><b>Individually searched given names of persons listed on Japanese registered designs 2000-2018</b></caption>
@@ -166,11 +166,11 @@ Building the datasets was itself a learning and development process. I began by 
 
 Examiners' and agents' names were all individually searched before the celebrities and marathon roster datasets were created. Creator names, in contrast, were in part individually searched after the latter datasets were added. Individual searches for creator names focused on names NOT found in these datasets or in earlier individual searches. This means that gender or age based skews in the celebrity and marathon rosters relative to the creator name set may induce counter skews in the individually searched dataset. For example, <a href="#Kawagishi2013">Kawagishi and Katsumi (2013)</a> as well as Baresova (<a href="#Baresova2020">2020</a> and <a href="#Baresova2021">2021</a>) observe rather sharp changes in naming customs in Japan since the 1970s. Also, when searching individual names, I observed that names of creators of designs in the early 2000s could often be found in golf or tennis tournament rosters but not in marathon rosters. Those in the mid 2010s, on the other hand, were more often found in marathon rosters, which is how I learned of the rosters used for the datasets here. 
 
-### <a id="JapaneseCelebs">Japanese celebrities</a>
+### <a id="JapaneseCelebs">Japanese celebrities (CEL)</a>
 
 <a href="https://github.com/AlanInTsukuba/name-gender-ja/blob/main/datasets/JapaneseCelebs.csv">JapaneseCelebs.csv</a> contains the given names, genders, full names and Wikipedia URL for 12397 Japanese celebrities scraped from the Wikipedia categories <a href="https://ja.wikipedia.org/wiki/Category:日本の女優">日本の女優 (Japanese female actors)</a> and <a href="https://ja.wikipedia.org/wiki/Category:日本の男優">日本の男優 (Japanese male actors)</a>; 5445 of these are women and 6952 are men. Uniquing on given name-gender tuples yielded 2701 unique female names and 4060 unique male names; 131 names were in both female and male uniqued sets. During clean up, original names were given precedence over stage names expect when the entry indicated transgender, in which case the first name after gender change was selected.
 
-### <a id="GivenNamesGenderDataset">Gender-specific given names from marathon rosters</a>
+### <a id="GivenNamesGenderDataset">Gender-specific given names from marathon rosters (MGN)</a>
 
 Runner lists were obtained from nine geographically separated marathons. Cleaned of foreign names entered in either roman characters or katakana, these lists yielded 96,087 surname-given name-gender tuples, which were uniqued to produce 88,079 tuples. Uniquing makes the operating assumption that each unique tuple corresponds to a single runner who ran in multiple marathons. Women made up 21.2% of the list. This list was aggregated on given name to give counts of surnames, women and men for each given name. Using a threshold surname count of 23 (expectation value of 5 / share of women), Chi-square good-of-fit tests were run for names with surname counts greater than the threshold and Fisher exact test were run for names with surname counts greater than or equal to 2 and less than or equal to the threshold. With a female expectation share of 0.211889 and p-value cutoff of 0.05, this yielded the 2744 gender-specific (1718 female, 1026 male) given names in GivenNameGender.csv.
 
@@ -188,7 +188,7 @@ Version 2: Names with both female and male instances but with p-value over cutof
 </tbody>
 </table>
 
-### <a id="EndCharGenderDataset">Gender-specific end characters</a>
+### <a id="EndCharGenderDataset">Gender-specific end characters (MEC)</a>
 
 The same process for GivenNameGender.csv was followed except for further aggregating the given name aggregate list on the given names' end characters. With a female expectation share of 0.211889 and p-value cutoff of 0.05, this yielded the 445 gender-specific (185 female, 260 male) end characters in EndCharGender.csv.
 

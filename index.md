@@ -1,6 +1,6 @@
 # Gender classification of given names for Japanese text
 
-<p class="author"><a href="https://orcid.org/0000-0003-0070-2347" target="_blank">Alan Engel</a><br>Last update: 24 September 2021</p>
+<p class="author"><a href="https://orcid.org/0000-0003-0070-2347" target="_blank">Alan Engel</a><br>Last update: 14 october 2021</p>
 
 ## Table of Contents
 <ul>

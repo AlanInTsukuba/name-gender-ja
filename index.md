@@ -612,7 +612,7 @@ The following table looks at consistency between datasets when they are used to 
 
 ### <a id="DatasetPrecedence">Selecting gender codes using precedence</a>
 
-
+The next table looks at agreement between datasets by examining off-diagonal elements from above. The rightmost column sums all of the off-diagonal values; the penultimate column sums the female-male mismatches. The best agreement is between individually searched names and marathon roster names. Agreement for celebrities is poorer against both individually searched and marathon roster datasets. This may reflect better age matching as will be discussed below under topics for further research. End characters is a coarser tool so it's poorer agreement versus the other three datasets is not surprising.
 
 <table>
 <caption><b>Sums of off-diagonal elements</b></caption>
@@ -625,18 +625,22 @@ The following table looks at consistency between datasets when they are used to 
 <tr><td>Roster given names vs roster end characters</td><td>1.2%</td><td>3.1%</td></tr>
 </table>
 
+I applied these datasets in combination using two precedence schemes. Scheme 1 favors datasets that provide more specific female/male codings, in other words, fewer names coding for both female and male. This prioritizes the individually searched dataset because that dataset specifically covers the names of creators in the target sample. And it prioritizes the marathon roster given name dataset because that set derives from a proper population sample with statistical tests. Precedence scheme 2 is a fuzzier coding that prioritizes the existence of unisex names. 
+
 #### Precedence scheme 1
 
-m/f specific (IND > MGN > CEL) > both (IND > MGN > CEL) > MEC
+f/m-specific (IND > MGN > CEL) > both (IND > MGN > CEL) > MEC
 
 #### Precedence scheme 2
 
-both (IND > MGN > CEL) > m/f specific (IND > MGN > CEL) > MEC 
+both (IND > MGN > CEL) > f/m-specific (IND > MGN > CEL) > MEC 
 
 
 ## <a id="LimitationsFurtherResearch">Limitations and topics for further research</a>
 
 ### <a id="AgeDependency">Age dependent mismatch and skew</a>
+
+
 ### <a id="IntraAsianConsistency">Gender specificity across Asian boundaries</a>
 ### <a id="CelebrityDesigners">Celebrity foreign designers</a>
 
@@ -658,6 +662,8 @@ both (IND > MGN > CEL) > m/f specific (IND > MGN > CEL) > MEC
 
 <a id="Baresova2020">Baresova, Ivona (2020)</a> "Hiroko, Sachiko, Yoko : The Phenomenon of Female "-Ko" Names in Modern Japan." The Gakushuin Journal of International Studies, vol. 6, 2020, pp. 23-38. [accessed 31 August 2021] https://glim-re.repo.nii.ac.jp/?action=repository_uri&item_id=4831&file_id=22&file_no=1
 
+<a id="BearCollier2016">Bear, Julia B., Benjamin Collier (2016)</a> Where are the Women in Wikipedia? Understanding the Different Psychological Experiences of Men and Women in Wikipedia. Sex Roles 74, 254–265 (2016). [accessed 18 October 2021] https://doi.org/10.1007/s11199-015-0573-y
+
 <a id="DelixusNWBC2012">Delixus, Inc. and National Women’s Business Council (2012)</a> Intellectual Property and Women Entrepreneurs. <https://cdn.www.nwbc.gov/wp-content/uploads/2018/02/27192725/Qualitative-Analysis-Intellectual-Property-Women-Entrepreneurs-Part-1.pdf> (accessed 16 August 2021)
 
 <a id="JensenEtAl2018">Jensen K, Kovács B, Sorenson O. (2018)</a> Gender differences in obtaining and maintaining patent rights. Nat Biotechnol. 2018 Apr 5;36(4):307-309. doi: 10.1038/nbt.4120. PMID: 29621210.
@@ -677,6 +683,8 @@ both (IND > MGN > CEL) > m/f specific (IND > MGN > CEL) > MEC
 <a id="MullerEtAl2019">Müller, Daniel, Pratiksha Jain, and Yieh-Funk Te. (2019)</a> "Augmenting data quality through high-precision gender categorization." Journal of Data and Information Quality (JDIQ) 11(2):1-18. doi:10.1145/3297720
 
 <a id="ParkYoon2007">Park, Seong-Bae, and Hee-Geun Yoon (2007)</a>"Determining the Gender of Korean Names for Pronoun Generation." International Journal of Computer Science and Engineering 1.4 (2007): 226-30. [accessed 20 August 2021] https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.192.8977&rep=rep1&type=pdf
+
+<a id="Skirbekk2008">Skirbekk, Vegard (2008)</a> Age and Productivity Potential: A New Approach Based on Ability Levels and Industry-Wide Task Demand. <i>Population and Development Review</i>, 2008, Vol. 34, Population Aging, Human Capital Accumulation, and Productivity Growth (2008), pp. 191-207. [accessed 18 October 2021] https://www.jstor.org/stable/25434764
 
 <a id="SugimotoEtal2015">Sugimoto, Cassidy R., Chaoqun Ni, Jevin D. West, Vincent Larivière (2015)</a> The Academic Advantage: Gender Disparities in Patenting. PLoS ONE 10(5): e0128000. doi:10.1371/journal.pone.0128000
 

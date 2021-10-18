@@ -645,9 +645,6 @@ both (IND > MGN > CEL) > f/m-specific (IND > MGN > CEL) > MEC
   <td colspan=2 width=144 style='width:108pt'>Not coded</td>
  </tr>
 <tr height=18 style='height:13.5pt'>
-  <td colspan=9 width=432 style='width:324pt'>(Percent vs dataset matches)</td>
- </tr>
-<tr height=18 style='height:13.5pt'>
   <td height=18 width=97 style='height:13.5pt;width:73pt'>Precedence Scheme 1</td>
   <td width=72 style='width:54pt'>18567</td>
   <td width=72 style='width:54pt'>12.7%</td>

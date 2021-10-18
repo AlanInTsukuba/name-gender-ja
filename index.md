@@ -210,7 +210,7 @@ Version 2: Names with both female and male instances but with p-value over cutof
 
 To compare gender assignments using the 4 datasets above, I applied them to the names of creators listed on Japanese designs registered between 2000 and 2018. The creators were restricted to those with Japanese addresses and those designs applied for directly at the Japanese patent office. This excludes creators with Japanese addresses whose registrations were applied for via the Hague Convention.
 <table>
-<caption><b>Gender matches between datasets and set of 145858 creator names</b></caption>
+<caption><b>Gender matches between datasets and set of 145856 creator names</b></caption>
 <tr height=18 style='height:13.5pt'>
   <td rowspan=2 height=18 width=97 style='height:13.5pt;width:73pt'></td>
   <td rowspan=2 colspan=2 width=144 style='width:108pt'>Matches vs name set</td>
@@ -223,11 +223,11 @@ To compare gender assignments using the 4 datasets above, I applied them to the 
  </tr>
 <tr height=18 style='height:13.5pt'>
   <td height=18 width=97 style='height:13.5pt;width:73pt'>Individually searched</td>
-  <td width=72 style='width:54pt'>88227</td>
+  <td width=72 style='width:54pt'>88226</td>
   <td width=72 style='width:54pt'>60.6%</td>
   <td width=72 style='width:54pt'>8809</td>
   <td width=72 style='width:54pt'>10.0%</td>
-  <td width=72 style='width:54pt'>78858</td>
+  <td width=72 style='width:54pt'>78857</td>
   <td width=72 style='width:54pt'>89.4%</td>
   <td width=72 style='width:54pt'>560</td>
   <td width=72 style='width:54pt'>0.6%</td>
@@ -256,13 +256,13 @@ To compare gender assignments using the 4 datasets above, I applied them to the 
  </tr>
 <tr height=18 style='height:13.5pt'>
   <td height=18 width=97 style='height:13.5pt;width:73pt'>Marathon rosters (end characters)</td>
-  <td width=72 style='width:54pt'>142798</td>
+  <td width=72 style='width:54pt'>142797</td>
   <td width=72 style='width:54pt'>97.9%</td>
   <td width=72 style='width:54pt'>19692</td>
   <td width=72 style='width:54pt'>13.8%</td>
   <td width=72 style='width:54pt'>120289</td>
   <td width=72 style='width:54pt'>84.2%</td>
-  <td width=72 style='width:54pt'>2817</td>
+  <td width=72 style='width:54pt'>2816</td>
   <td width=72 style='width:54pt'>2.0%</td>
  </tr>
 <tr height=18 style='height:13.5pt'>
@@ -326,7 +326,11 @@ The following table looks at consistency between datasets when they are used to 
   <td class=xl69 align=right></td>
   <td class=xl69></td>
   <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
   <td class=xl68 align=right>85626</td>
+  <td class=xl69></td>
+  <td class=xl69></td>
   <td class=xl69></td>
   <td class=xl69></td>
   <td class=xl69></td>
@@ -422,7 +426,11 @@ The following table looks at consistency between datasets when they are used to 
   <td class=xl69></td>
   <td class=xl69></td>
   <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
   <td class=xl68 align=right>84906</td>
+  <td class=xl69></td>
+  <td class=xl69></td>
   <td class=xl69></td>
   <td class=xl69></td>
   <td class=xl69></td>

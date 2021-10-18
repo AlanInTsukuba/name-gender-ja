@@ -635,6 +635,41 @@ f/m-specific (IND > MGN > CEL) > both (IND > MGN > CEL) > MEC
 
 both (IND > MGN > CEL) > f/m-specific (IND > MGN > CEL) > MEC 
 
+<table>
+<caption><b>Gender matches between combined datasets and set of 145856 creator names by precedence scheme</b></caption>
+<tr height=18 style='height:13.5pt'>
+  <td rowspan=1 height=18 width=97 style='height:13.5pt;width:73pt'></td>
+  <td colspan=2 width=144 style='width:108pt'>Female</td>
+  <td colspan=2 width=144 style='width:108pt'>Male</td>
+  <td colspan=2 width=144 style='width:108pt'>Both</td>
+  <td colspan=2 width=144 style='width:108pt'>Not coded</td>
+ </tr>
+<tr height=18 style='height:13.5pt'>
+  <td colspan=9 width=432 style='width:324pt'>(Percent vs dataset matches)</td>
+ </tr>
+<tr height=18 style='height:13.5pt'>
+  <td height=18 width=97 style='height:13.5pt;width:73pt'>Precedence Scheme 1</td>
+  <td width=72 style='width:54pt'>18567</td>
+  <td width=72 style='width:54pt'>12.7%</td>
+  <td width=72 style='width:54pt'>126114</td>
+  <td width=72 style='width:54pt'>86.5%</td>
+  <td width=72 style='width:54pt'>999</td>
+  <td width=72 style='width:54pt'>0.7%</td>
+  <td width=72 style='width:54pt'>176</td>
+  <td width=72 style='width:54pt'>0.1%</td>
+ </tr>
+<tr height=18 style='height:13.5pt'>
+  <td height=18 width=97 style='height:13.5pt;width:73pt'>Precedence Scheme 2</td>
+  <td width=72 style='width:54pt'>16953</td>
+  <td width=72 style='width:54pt'>11.6%</td>
+  <td width=72 style='width:54pt'>121869</td>
+  <td width=72 style='width:54pt'>83.6%</td>
+  <td width=72 style='width:54pt'>6858</td>
+  <td width=72 style='width:54pt'>4.7%</td>
+  <td width=72 style='width:54pt'>176</td>
+  <td width=72 style='width:54pt'>0.1%</td>
+ </tr>
+</table>
 
 ## <a id="LimitationsFurtherResearch">Limitations and topics for further research</a>
 

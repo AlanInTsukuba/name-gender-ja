@@ -642,7 +642,7 @@ both (IND > MGN > CEL) > f/m-specific (IND > MGN > CEL) > MEC
   <td colspan=2 width=144 style='width:108pt'>Female</td>
   <td colspan=2 width=144 style='width:108pt'>Male</td>
   <td colspan=2 width=144 style='width:108pt'>Both</td>
-  <td colspan=2 width=144 style='width:108pt'>Not coded</td>
+  <td colspan=2 width=144 style='width:108pt'>Not found</td>
  </tr>
 <tr height=18 style='height:13.5pt'>
   <td height=18 width=97 style='height:13.5pt;width:73pt'>Precedence Scheme 1</td>

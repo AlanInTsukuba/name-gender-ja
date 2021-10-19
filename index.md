@@ -668,6 +668,86 @@ both (IND > MGN > CEL) > f/m-specific (IND > MGN > CEL) > MEC
  </tr>
 </table>
 
+<table>
+<caption><b>Agreement between precedence schemes</b></caption>
+<tr height=18 style='height:13.5pt'>
+  <td height=19 style='height:14.25pt'></td>
+  <td></td>
+  <td colspan=9>Precedence scheme 2</td>
+ </tr>
+<tr height=18 style='height:13.5pt'>
+  <td height=19 style='height:14.25pt'></td>
+  <td></td>
+  <td>Shared matches</td>
+  <td colspan=2>Female</td>
+  <td colspan=2>Male</td>
+  <td colspan=2>Both</td>
+  <td colspan=2>Not found</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td rowspan=5 height=74 class=xl66 width=97 style='height:55.5pt;width:73pt'>Precedence scheme 1</td>
+  <td>Shared matches</td>
+  <td class=xl68 align=right>145856
+</td>
+  <td class=xl69 align=right></td>
+  <td class=xl69 align=right></td>
+  <td class=xl70 align=right></td>
+  <td class=xl76 align=right></td>
+  <td class=xl77 align=right></td>
+  <td class=xl77 align=right></td>
+  <td class=xl77 align=right></td>
+  <td class=xl77 align=right></td>
+  </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td>Female</td>
+  <td class=xl68 align=right></td>
+  <td class=xl69 align=right>16953</td>
+  <td class=xl69 align=right>11.6%</td>
+  <td class=xl70 align=right> 0</td>
+  <td class=xl76 align=right >0.0%</td>
+  <td class=xl77 align=right>1614</td>
+  <td class=xl77 align=right>1.1%</td>
+  <td class=xl77 align=right>0</td>
+  <td class=xl77 align=right>0.0%</td>
+  </tr>
+<tr height=19 style='height:14.25pt'>
+  <td>Male</td>
+  <td class=xl68 align=right></td>
+  <td class=xl69 align=right>0</td>
+  <td class=xl69 align=right>0.0%</td>
+  <td class=xl70 align=right>121869</td>
+  <td class=xl76 align=right >83.6%</td>
+  <td class=xl77 align=right>4245</td>
+  <td class=xl77 align=right>2.9%</td>
+  <td class=xl77 align=right>0</td>
+  <td class=xl77 align=right>0.0%</td>
+  </tr>
+<tr height=19 style='height:14.25pt'>
+  <td>Both</td>
+  <td class=xl68 align=right></td>
+  <td class=xl69 align=right>0</td>
+  <td class=xl69 align=right>0.0%</td>
+  <td class=xl69 align=right>0</td>
+  <td class=xl69 align=right>0.0%</td>
+  <td class=xl77 align=right>999</td>
+  <td class=xl77 align=right>0.7%</td>
+  <td class=xl77 align=right>0</td>
+  <td class=xl77 align=right>0.0%</td>
+  </tr>
+<tr height=19 style='height:14.25pt'>
+  <td>Not found</td>
+  <td class=xl68 align=right></td>
+  <td class=xl69 align=right>0</td>
+  <td class=xl69 align=right>0.0%</td>
+  <td class=xl69 align=right>0</td>
+  <td class=xl69 align=right>0.0%</td>
+  <td class=xl69 align=right>0</td>
+  <td class=xl69 align=right>0.0%</td>
+  <td class=xl77 align=right>176</td>
+  <td class=xl77 align=right>0.0%</td>
+  </tr>
+</table>
+
 ## <a id="LimitationsFurtherResearch">Limitations and topics for further research</a>
 
 ### <a id="AgeDependency">Age dependent mismatch and skew</a>

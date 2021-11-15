@@ -164,7 +164,7 @@ Building the datasets was itself a learning and development process. I began by 
 </tbody>
 </table>
 
-Examiners' and agents' names were all individually searched before the celebrities and marathon roster datasets were created. Creator names, in contrast, were in part individually searched after the latter datasets were added. Individual searches for creator names focused on names NOT found in these datasets or in earlier individual searches. This means that gender or age based skews in the celebrity and marathon rosters relative to the creator name set may induce counter skews in the individually searched dataset. For example, <a href="#Kawagishi2013">Kawagishi and Katsumi (2013)</a> as well as Baresova (<a href="#Baresova2020">2020</a> and <a href="#Baresova2021">2021</a>) observe rather sharp changes in naming customs in Japan since the 1970s. Also, when searching individual names, I observed that names of creators of designs in the early 2000s could often be found in golf or tennis tournament rosters but not in marathon rosters. Those in the mid 2010s, on the other hand, were more often found in marathon rosters, which is how I learned of the rosters used for the datasets here. 
+Examiners' and agents' names were all individually searched before the celebrities and marathon roster datasets were created. Creator names, in contrast, were in part individually searched after the latter datasets were added. Individual searches for creator names focused on names NOT found in these datasets or in earlier individual searches. This means that gender or age based skews in the celebrity and marathon rosters relative to the creator name set may induce counter skews in the individually searched dataset. For example, <a href="#Kawagishi2013">Kawagishi and Katsumi (2013)</a> as well as Baresova (<a href="#Baresova2020">2020</a> and <a href="#Baresova2021">2021</a>) observe rather sharp changes in naming customs in Japan since the 1970s. Also, when searching individual names, I observed that names of creators of designs in the early 2000s could often be found in golf or tennis tournament rosters but not in marathon rosters. Those in the mid 2010s, on the other hand, were more often found in marathon rosters, which is how I learned of the rosters used for the datasets here. The genders of 24 names were taken from <a href="#ONeill1972">O'Neill (1972)</a>.
 
 ### <a id="JapaneseCelebs">Japanese celebrities (CEL)</a>
 
@@ -798,7 +798,9 @@ both (IND > MGN > CEL) > f/m-specific (IND > MGN > CEL) > MEC
 
 <a id="MullerEtAl2019">Müller, Daniel, Pratiksha Jain, and Yieh-Funk Te. (2019)</a> "Augmenting data quality through high-precision gender categorization." Journal of Data and Information Quality (JDIQ) 11(2):1-18. doi:10.1145/3297720
 
-<a id="ParkYoon2007">Park, Seong-Bae, and Hee-Geun Yoon (2007)</a>"Determining the Gender of Korean Names for Pronoun Generation." International Journal of Computer Science and Engineering 1.4 (2007): 226-30. [accessed 20 August 2021] https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.192.8977&rep=rep1&type=pdf
+<a id="ONeill1972">O'Neill, P.G. (1972)</a> Japanese Names: A Comprehensive Index by Characters and Readings. John Weatherhill, New York and Tokyo.
+
+<a id="ParkYoon2007">Park, Seong-Bae, and Hee-Geun Yoon (2007)</a> "Determining the Gender of Korean Names for Pronoun Generation." International Journal of Computer Science and Engineering 1.4 (2007): 226-30. [accessed 20 August 2021] https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.192.8977&rep=rep1&type=pdf
 
 <a id="ShangEtal2021">Shang, Yuanyuan, Gunnar Sivertsen, Zhe Cao, and Lin Zhang (2021)</a> “Gender Differences in Research Focused on the Sustainable Development Goal of Gender Equality.” SocArXiv. November 1. [accessed 14 November 2021] https://doi.org/10.31235/osf.io/3fapz.
 

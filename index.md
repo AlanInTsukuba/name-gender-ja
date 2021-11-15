@@ -780,7 +780,7 @@ both (IND > MGN > CEL) > f/m-specific (IND > MGN > CEL) > MEC
 
 <a id="HuangEtal2020">Huang, J., Gates, A. J., Sinatra, R., & Barabási, A.-L. (2020)</a> Historical comparison of gender inequality in scientific careers across countries and disciplines. Proceedings of the national academy of sciences, 117(9), 4609-4616. [accessed 15 November 2021] https://www.pnas.org/content/117/9/4609
 
-<a id="JensenEtAl2018">Jensen K, Kovács B, Sorenson O. (2018)</a> Gender differences in obtaining and maintaining patent rights. Nat Biotechnol. 2018 Apr 5;36(4):307-309. doi: 10.1038/nbt.4120. PMID: 29621210.
+<a id="JensenEtAl2018">Jensen K, Kovács B, Sorenson O. (2018)</a> Gender differences in obtaining and maintaining patent rights. Nature Biotechnology 2018 Apr 5;36(4):307-309. doi: 10.1038/nbt.4120. PMID: 29621210.
 
 <a id="JensenKovacsSorenson2018">Jensen, Kyle, Balázs Kovács, and Olav Sorenson (2018)</a> "Gender Differences in Obtaining and Maintaining Patent Rights." Nature Biotechnology, vol. 36, no. 4, 2018, pp. 307-309. [accessed 9 December 2020] https://www-proquest-com.ezproxy.tulips.tsukuba.ac.jp/docview/2021770129?pq-origsite=summon
 

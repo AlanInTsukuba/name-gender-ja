@@ -68,7 +68,7 @@ Research into gender disparities requires the ability to code the genders of per
 
 ### <a id="GenderAttributionEastAsian">Gender attribution for East Asian names</a>
 
-Gender attribution for Asian names using European alphabets suffers from limitiations. The USPTO's <a href="#ProgressAndPotential2019">2019 Progress and Potential</a> profile of women inventors used a baseline attribution method based on IBM's Global Name Recognition system and WIPO7s worldwide gender-name dictionary (WGND). This baseline method was unable to classify gender for 54,400 cases from Japan, 34,600 cases from China and 28,300 cases from the Republic of Korea. These unclassified cases comprised 62% of the inventors residing in China and 31% of those residing in the Republic of Korea.
+Gender attribution for Asian names using the Latin alphabet suffers from limitiations. The USPTO's <a href="#ProgressAndPotential2019">2019 Progress and Potential</a> profile of women inventors used a baseline attribution method based on IBM's Global Name Recognition system and WIPO7s worldwide gender-name dictionary (WGND). This baseline method was unable to classify gender for 54,400 cases from Japan, 34,600 cases from China and 28,300 cases from the Republic of Korea. These unclassified cases comprised 62% of the inventors residing in China and 31% of those residing in the Republic of Korea. <a href="#MattauchEtal2020">Mattauch, etal. (2020)</a> use a bibliometric approach to estimate the proportion of women scientifically active in computer science. Creating a database of authors from 19 international conferences, they estimate country of origin using NamSor Origin API and gender using NamSor Gender API. Asserting without citation that Chinese names are not strongly correlated with gender, they exclude names from Hong Kong, China, Taiwan, Republic of Korea, Viet Nam and DPRK; this is 27% of their original dataset. <a href="#HuangEtal2020">Huang, etal. (2020)</a> use the commercial service <i>Genderize.io</i> to identify the gender of more than 3 million authors spanning 83 countries and 13 major disciplines but exclude all researchers from China (mainland, Hong Kong, Macau, & Taiwan), the Democratic People’s Republic of Korea, Japan, Malaysia, the Republic of Korea, and Singapore. They also exclude all authors from Brazil. In creating a bibliographic database for assessing gender equality in research, <a href="#ShangEtal2021">Shang, etal. (2021)</a> cite <a href="#MattauchEtal2020">Mattauch, etal. (2020)</a> and  in further asserting that many Asian names are not strongly correlated with gender. They additionally cite <a href="#HuangEtal2020">Huang, etal. (2020)</a> in excluding all authors from China (Mainland, Hong Kong, Macau, & Taiwan), Japan, Singapore, Malaysia, South Korea, Indonesia, Thailand, Viet Nam, Philippines, Cambodia, Laos, Myanmar, and Mongolia; this is 17% of their original dataset.
 
 #### Existing resources for Japanese given names written in Kanji
 
@@ -778,6 +778,8 @@ both (IND > MGN > CEL) > f/m-specific (IND > MGN > CEL) > MEC
 
 <a id="DelixusNWBC2012">Delixus, Inc. and National Women’s Business Council (2012)</a> Intellectual Property and Women Entrepreneurs. <https://cdn.www.nwbc.gov/wp-content/uploads/2018/02/27192725/Qualitative-Analysis-Intellectual-Property-Women-Entrepreneurs-Part-1.pdf> (accessed 16 August 2021)
 
+<a id="HuangEtal2020">Huang, J., Gates, A. J., Sinatra, R., & Barabási, A.-L. (2020)</a> Historical comparison of gender inequality in scientific careers across countries and disciplines. Proceedings of the national academy of sciences, 117(9), 4609-4616. [accessed 15 November 2021] https://www.pnas.org/content/117/9/4609
+
 <a id="JensenEtAl2018">Jensen K, Kovács B, Sorenson O. (2018)</a> Gender differences in obtaining and maintaining patent rights. Nat Biotechnol. 2018 Apr 5;36(4):307-309. doi: 10.1038/nbt.4120. PMID: 29621210.
 
 <a id="JensenKovacsSorenson2018">Jensen, Kyle, Balázs Kovács, and Olav Sorenson (2018)</a> "Gender Differences in Obtaining and Maintaining Patent Rights." Nature Biotechnology, vol. 36, no. 4, 2018, pp. 307-309. [accessed 9 December 2020] https://www-proquest-com.ezproxy.tulips.tsukuba.ac.jp/docview/2021770129?pq-origsite=summon
@@ -792,9 +794,13 @@ both (IND > MGN > CEL) > f/m-specific (IND > MGN > CEL) > MEC
 
 <a id="MartinezEtal2021">Martinez, Gema Lax, Helena Saenz de Juano-i-Ribes, Deyun Yin, Bruno Le Feuvre, Intan Hamdan-Livramento, Kaori Saito, Julio Raffo (2021)</a> Expanding the World Gender-Name Dictionary: WGND 2.0. Economic Research Working Paper No. 64. World Intelectual Property Organization. [accessed 19 August 2021] https://www.wipo.int/edocs/pubdocs/en/wipo_pub_econstat_wp_64.pdf
 
+<a id="MattauchEtal2020">Mattauch, Sandra, Katja Lohmann, Frank Hannig, Daniel Lohmann, and Jürgen Teich. (2020)</a> "A Bibliometric Approach for Detecting the Gender Gap in Computer Science." Communications of the ACM, vol. 63, no. 5, 2020, pp. 74-80. [accessed 14 November 2021] https://dl.acm.org/doi/10.1145/3376901
+
 <a id="MullerEtAl2019">Müller, Daniel, Pratiksha Jain, and Yieh-Funk Te. (2019)</a> "Augmenting data quality through high-precision gender categorization." Journal of Data and Information Quality (JDIQ) 11(2):1-18. doi:10.1145/3297720
 
 <a id="ParkYoon2007">Park, Seong-Bae, and Hee-Geun Yoon (2007)</a>"Determining the Gender of Korean Names for Pronoun Generation." International Journal of Computer Science and Engineering 1.4 (2007): 226-30. [accessed 20 August 2021] https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.192.8977&rep=rep1&type=pdf
+
+<a id="ShangEtal2021">Shang, Yuanyuan, Gunnar Sivertsen, Zhe Cao, and Lin Zhang (2021)</a> “Gender Differences in Research Focused on the Sustainable Development Goal of Gender Equality.” SocArXiv. November 1. [accessed 14 November 2021] https://doi.org/10.31235/osf.io/3fapz.
 
 <a id="Skirbekk2008">Skirbekk, Vegard (2008)</a> Age and Productivity Potential: A New Approach Based on Ability Levels and Industry-Wide Task Demand. <i>Population and Development Review</i>, 2008, Vol. 34, Population Aging, Human Capital Accumulation, and Productivity Growth (2008), pp. 191-207. [accessed 18 October 2021] https://www.jstor.org/stable/25434764
 
